@@ -1,0 +1,6029 @@
+{
+ "zhangjiayang6835-cyber_bounty-plaza": {
+  "slug": "zhangjiayang6835-cyber/bounty-plaza",
+  "repo": {
+   "full_name": "zhangjiayang6835-cyber/bounty-plaza",
+   "description": "Bounty Plaza - Real bug bounty aggregation and distribution platform",
+   "size": 132,
+   "stargazers_count": 12,
+   "forks_count": 125,
+   "open_issues_count": 1366,
+   "created_at": "2026-07-08T15:34:56Z",
+   "pushed_at": "2026-09-13T19:13:25Z",
+   "language": "Python",
+   "license": null
+  },
+  "prs": [
+   {
+    "n": 1916,
+    "merged_at": null,
+    "created_at": "2026-10-16T00:00:53Z",
+    "user": "Johanxd43"
+   },
+   {
+    "n": 1826,
+    "merged_at": null,
+    "created_at": "2026-10-06T01:17:07Z",
+    "user": "arbilgroup"
+   },
+   {
+    "n": 1818,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:56:17Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1817,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:55:41Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1816,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:55:18Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1815,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:54:29Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1813,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:54:03Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1811,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:53:34Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1807,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:50:54Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1806,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:50:34Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1805,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:50:08Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1804,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:47:34Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1803,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:46:51Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1802,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:46:03Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1801,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:45:37Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1800,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:45:08Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1799,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:44:53Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1798,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:44:25Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1797,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:43:22Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1796,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:42:31Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1794,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:40:57Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1793,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:40:47Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1790,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:37:51Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1789,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:36:27Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1787,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:35:18Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1786,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:34:39Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1785,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:33:32Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1784,
+    "merged_at": null,
+    "created_at": "2026-10-04T03:33:02Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1769,
+    "merged_at": null,
+    "created_at": "2026-10-03T21:15:58Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1768,
+    "merged_at": null,
+    "created_at": "2026-10-03T21:15:26Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1767,
+    "merged_at": null,
+    "created_at": "2026-10-03T21:13:41Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1766,
+    "merged_at": null,
+    "created_at": "2026-10-03T21:12:28Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1765,
+    "merged_at": null,
+    "created_at": "2026-10-03T21:11:35Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1763,
+    "merged_at": null,
+    "created_at": "2026-10-03T21:10:24Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1761,
+    "merged_at": null,
+    "created_at": "2026-10-03T21:08:12Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1760,
+    "merged_at": null,
+    "created_at": "2026-10-03T21:07:17Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1752,
+    "merged_at": null,
+    "created_at": "2026-10-03T20:59:34Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1744,
+    "merged_at": null,
+    "created_at": "2026-10-03T20:49:56Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1742,
+    "merged_at": null,
+    "created_at": "2026-10-03T20:48:40Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1740,
+    "merged_at": null,
+    "created_at": "2026-10-03T20:47:42Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1738,
+    "merged_at": null,
+    "created_at": "2026-10-03T20:46:26Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1735,
+    "merged_at": null,
+    "created_at": "2026-10-03T20:45:00Z",
+    "user": "monopolymummat-cmyk"
+   },
+   {
+    "n": 1734,
+    "merged_at": null,
+    "created_at": "2026-10-03T15:23:44Z",
+    "user": "amirarnol"
+   },
+   {
+    "n": 1732,
+    "merged_at": null,
+    "created_at": "2026-10-03T06:45:59Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1731,
+    "merged_at": null,
+    "created_at": "2026-10-03T06:45:57Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1719,
+    "merged_at": null,
+    "created_at": "2026-09-30T20:48:36Z",
+    "user": "osmesirius-ship-it"
+   },
+   {
+    "n": 1705,
+    "merged_at": null,
+    "created_at": "2026-09-30T07:26:19Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1695,
+    "merged_at": null,
+    "created_at": "2026-09-28T16:13:00Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1694,
+    "merged_at": null,
+    "created_at": "2026-09-28T16:09:21Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1693,
+    "merged_at": null,
+    "created_at": "2026-09-28T16:05:52Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1692,
+    "merged_at": null,
+    "created_at": "2026-09-28T16:03:14Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1690,
+    "merged_at": null,
+    "created_at": "2026-09-28T14:08:03Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1689,
+    "merged_at": null,
+    "created_at": "2026-09-28T14:06:23Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1687,
+    "merged_at": null,
+    "created_at": "2026-09-28T12:05:49Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1686,
+    "merged_at": null,
+    "created_at": "2026-09-28T10:12:12Z",
+    "user": "AlexanderFWatling"
+   },
+   {
+    "n": 1685,
+    "merged_at": null,
+    "created_at": "2026-09-27T19:40:52Z",
+    "user": "AlexanderFWatling"
+   },
+   {
+    "n": 1684,
+    "merged_at": null,
+    "created_at": "2026-09-27T19:40:51Z",
+    "user": "AlexanderFWatling"
+   },
+   {
+    "n": 1679,
+    "merged_at": null,
+    "created_at": "2026-09-26T16:27:51Z",
+    "user": "AngelosEl"
+   },
+   {
+    "n": 1678,
+    "merged_at": null,
+    "created_at": "2026-09-26T16:26:11Z",
+    "user": "AngelosEl"
+   },
+   {
+    "n": 1674,
+    "merged_at": null,
+    "created_at": "2026-09-26T15:01:11Z",
+    "user": "AngelosEl"
+   },
+   {
+    "n": 1672,
+    "merged_at": null,
+    "created_at": "2026-09-26T15:00:07Z",
+    "user": "AngelosEl"
+   },
+   {
+    "n": 1671,
+    "merged_at": null,
+    "created_at": "2026-09-26T14:57:54Z",
+    "user": "AngelosEl"
+   },
+   {
+    "n": 1669,
+    "merged_at": null,
+    "created_at": "2026-09-26T06:26:32Z",
+    "user": "shruhicollections-beep"
+   },
+   {
+    "n": 1668,
+    "merged_at": null,
+    "created_at": "2026-09-26T06:16:57Z",
+    "user": "shruhicollections-beep"
+   },
+   {
+    "n": 1666,
+    "merged_at": null,
+    "created_at": "2026-09-25T21:12:40Z",
+    "user": "shruhicollections-beep"
+   },
+   {
+    "n": 1665,
+    "merged_at": null,
+    "created_at": "2026-09-25T20:42:27Z",
+    "user": "shruhicollections-beep"
+   },
+   {
+    "n": 1657,
+    "merged_at": null,
+    "created_at": "2026-09-25T03:37:49Z",
+    "user": "Semutireng22"
+   },
+   {
+    "n": 1654,
+    "merged_at": null,
+    "created_at": "2026-09-25T03:24:37Z",
+    "user": "Semutireng22"
+   },
+   {
+    "n": 1653,
+    "merged_at": null,
+    "created_at": "2026-09-25T03:23:42Z",
+    "user": "Semutireng22"
+   },
+   {
+    "n": 1632,
+    "merged_at": null,
+    "created_at": "2026-09-23T13:25:15Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1631,
+    "merged_at": null,
+    "created_at": "2026-09-23T13:15:43Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1630,
+    "merged_at": null,
+    "created_at": "2026-09-23T12:44:21Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1629,
+    "merged_at": null,
+    "created_at": "2026-09-23T07:33:39Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1628,
+    "merged_at": null,
+    "created_at": "2026-09-23T07:31:08Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1627,
+    "merged_at": null,
+    "created_at": "2026-09-23T07:29:47Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1626,
+    "merged_at": null,
+    "created_at": "2026-09-22T21:33:25Z",
+    "user": "Iwanna2024"
+   },
+   {
+    "n": 1625,
+    "merged_at": null,
+    "created_at": "2026-09-22T19:46:04Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1618,
+    "merged_at": null,
+    "created_at": "2026-09-22T11:19:59Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1617,
+    "merged_at": null,
+    "created_at": "2026-09-22T05:42:12Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1616,
+    "merged_at": null,
+    "created_at": "2026-09-22T05:41:05Z",
+    "user": "Vanguard-Sidd"
+   },
+   {
+    "n": 1613,
+    "merged_at": null,
+    "created_at": "2026-09-21T01:53:38Z",
+    "user": "Sigilith"
+   },
+   {
+    "n": 1612,
+    "merged_at": null,
+    "created_at": "2026-09-21T01:53:09Z",
+    "user": "Sigilith"
+   },
+   {
+    "n": 1587,
+    "merged_at": null,
+    "created_at": "2026-09-17T14:30:49Z",
+    "user": "AonIT88"
+   },
+   {
+    "n": 1586,
+    "merged_at": null,
+    "created_at": "2026-09-17T13:45:49Z",
+    "user": "AonIT88"
+   },
+   {
+    "n": 1579,
+    "merged_at": null,
+    "created_at": "2026-09-16T21:34:42Z",
+    "user": "strias-ai"
+   },
+   {
+    "n": 1578,
+    "merged_at": null,
+    "created_at": "2026-09-16T21:24:25Z",
+    "user": "strias-ai"
+   },
+   {
+    "n": 1577,
+    "merged_at": null,
+    "created_at": "2026-09-16T19:20:07Z",
+    "user": "Evos09"
+   },
+   {
+    "n": 1576,
+    "merged_at": null,
+    "created_at": "2026-09-16T19:18:24Z",
+    "user": "Evos09"
+   },
+   {
+    "n": 1574,
+    "merged_at": null,
+    "created_at": "2026-09-16T18:52:38Z",
+    "user": "Evos09"
+   },
+   {
+    "n": 1571,
+    "merged_at": null,
+    "created_at": "2026-09-16T12:05:38Z",
+    "user": "diogo2806"
+   },
+   {
+    "n": 1563,
+    "merged_at": null,
+    "created_at": "2026-09-16T05:39:55Z",
+    "user": "code-ninja0208"
+   },
+   {
+    "n": 1555,
+    "merged_at": null,
+    "created_at": "2026-09-15T16:50:29Z",
+    "user": "Matejus73"
+   },
+   {
+    "n": 1551,
+    "merged_at": null,
+    "created_at": "2026-09-14T04:06:14Z",
+    "user": "Matejus73"
+   },
+   {
+    "n": 1271,
+    "merged_at": null,
+    "created_at": "2026-09-09T03:35:52Z",
+    "user": "Okumotinho"
+   },
+   {
+    "n": 1269,
+    "merged_at": null,
+    "created_at": "2026-09-09T02:58:04Z",
+    "user": "Okumotinho"
+   },
+   {
+    "n": 1268,
+    "merged_at": null,
+    "created_at": "2026-09-09T02:52:52Z",
+    "user": "Okumotinho"
+   },
+   {
+    "n": 1267,
+    "merged_at": null,
+    "created_at": "2026-09-09T02:48:03Z",
+    "user": "Okumotinho"
+   },
+   {
+    "n": 1259,
+    "merged_at": null,
+    "created_at": "2026-09-09T01:36:24Z",
+    "user": "Okumotinho"
+   },
+   {
+    "n": 1248,
+    "merged_at": null,
+    "created_at": "2026-09-08T21:54:21Z",
+    "user": "Okumotinho"
+   },
+   {
+    "n": 1240,
+    "merged_at": null,
+    "created_at": "2026-09-08T20:20:14Z",
+    "user": "nff747"
+   },
+   {
+    "n": 1199,
+    "merged_at": null,
+    "created_at": "2026-09-06T23:53:16Z",
+    "user": "knowaguy4u-cell"
+   },
+   {
+    "n": 1198,
+    "merged_at": null,
+    "created_at": "2026-09-06T23:52:20Z",
+    "user": "knowaguy4u-cell"
+   },
+   {
+    "n": 1197,
+    "merged_at": null,
+    "created_at": "2026-09-06T23:51:22Z",
+    "user": "knowaguy4u-cell"
+   },
+   {
+    "n": 1195,
+    "merged_at": null,
+    "created_at": "2026-09-05T22:45:47Z",
+    "user": "iamkazbrekker"
+   },
+   {
+    "n": 1194,
+    "merged_at": null,
+    "created_at": "2026-09-05T22:44:53Z",
+    "user": "iamkazbrekker"
+   },
+   {
+    "n": 1193,
+    "merged_at": null,
+    "created_at": "2026-09-05T22:43:45Z",
+    "user": "iamkazbrekker"
+   },
+   {
+    "n": 1192,
+    "merged_at": null,
+    "created_at": "2026-09-05T18:48:40Z",
+    "user": "iamkazbrekker"
+   },
+   {
+    "n": 1191,
+    "merged_at": null,
+    "created_at": "2026-09-05T18:23:02Z",
+    "user": "iamkazbrekker"
+   },
+   {
+    "n": 1190,
+    "merged_at": null,
+    "created_at": "2026-09-05T18:15:35Z",
+    "user": "iamkazbrekker"
+   },
+   {
+    "n": 1189,
+    "merged_at": null,
+    "created_at": "2026-09-05T18:15:18Z",
+    "user": "iamkazbrekker"
+   },
+   {
+    "n": 1188,
+    "merged_at": null,
+    "created_at": "2026-09-05T17:48:24Z",
+    "user": "iamkazbrekker"
+   },
+   {
+    "n": 958,
+    "merged_at": null,
+    "created_at": "2026-08-29T17:31:48Z",
+    "user": "averymlewis-spec"
+   },
+   {
+    "n": 955,
+    "merged_at": null,
+    "created_at": "2026-08-29T01:33:24Z",
+    "user": "averymlewis-spec"
+   },
+   {
+    "n": 865,
+    "merged_at": null,
+    "created_at": "2026-08-21T11:44:32Z",
+    "user": "Meart67"
+   },
+   {
+    "n": 864,
+    "merged_at": null,
+    "created_at": "2026-08-21T11:38:44Z",
+    "user": "Meart67"
+   },
+   {
+    "n": 863,
+    "merged_at": null,
+    "created_at": "2026-08-21T11:38:40Z",
+    "user": "Meart67"
+   },
+   {
+    "n": 862,
+    "merged_at": null,
+    "created_at": "2026-08-21T11:38:36Z",
+    "user": "Meart67"
+   },
+   {
+    "n": 830,
+    "merged_at": null,
+    "created_at": "2026-08-20T14:20:06Z",
+    "user": "pnpn1212"
+   },
+   {
+    "n": 826,
+    "merged_at": null,
+    "created_at": "2026-08-16T00:29:04Z",
+    "user": "simondalmasso"
+   },
+   {
+    "n": 825,
+    "merged_at": null,
+    "created_at": "2026-08-15T05:45:09Z",
+    "user": "alienvisitor8675-bit"
+   },
+   {
+    "n": 824,
+    "merged_at": null,
+    "created_at": "2026-08-15T04:50:21Z",
+    "user": "alienvisitor8675-bit"
+   },
+   {
+    "n": 823,
+    "merged_at": null,
+    "created_at": "2026-08-14T17:18:01Z",
+    "user": "alienvisitor8675-bit"
+   },
+   {
+    "n": 822,
+    "merged_at": null,
+    "created_at": "2026-08-14T16:24:29Z",
+    "user": "alienvisitor8675-bit"
+   },
+   {
+    "n": 820,
+    "merged_at": null,
+    "created_at": "2026-08-13T01:38:35Z",
+    "user": "laurentketterle-hub"
+   },
+   {
+    "n": 806,
+    "merged_at": null,
+    "created_at": "2026-08-08T08:48:18Z",
+    "user": "abdallahisballin"
+   },
+   {
+    "n": 804,
+    "merged_at": null,
+    "created_at": "2026-08-07T05:02:03Z",
+    "user": "Samarth1306w"
+   },
+   {
+    "n": 803,
+    "merged_at": null,
+    "created_at": "2026-08-07T04:37:23Z",
+    "user": "Samarth1306w"
+   },
+   {
+    "n": 801,
+    "merged_at": null,
+    "created_at": "2026-08-06T05:10:41Z",
+    "user": "laurentketterle-hub"
+   },
+   {
+    "n": 800,
+    "merged_at": null,
+    "created_at": "2026-08-06T05:09:43Z",
+    "user": "laurentketterle-hub"
+   },
+   {
+    "n": 799,
+    "merged_at": null,
+    "created_at": "2026-08-06T01:39:09Z",
+    "user": "laurentketterle-hub"
+   },
+   {
+    "n": 796,
+    "merged_at": null,
+    "created_at": "2026-08-05T13:54:28Z",
+    "user": "laurentketterle-hub"
+   },
+   {
+    "n": 766,
+    "merged_at": null,
+    "created_at": "2026-08-03T23:37:33Z",
+    "user": "Luzijano"
+   },
+   {
+    "n": 764,
+    "merged_at": null,
+    "created_at": "2026-08-02T23:31:54Z",
+    "user": "zhangzhen9434"
+   },
+   {
+    "n": 763,
+    "merged_at": null,
+    "created_at": "2026-08-01T16:28:16Z",
+    "user": "bilaldeveloper4312"
+   },
+   {
+    "n": 762,
+    "merged_at": null,
+    "created_at": "2026-08-01T16:06:00Z",
+    "user": "bilaldeveloper4312"
+   },
+   {
+    "n": 758,
+    "merged_at": null,
+    "created_at": "2026-07-30T11:39:15Z",
+    "user": "MercornKing"
+   },
+   {
+    "n": 744,
+    "merged_at": null,
+    "created_at": "2026-07-29T02:14:38Z",
+    "user": "q514168795"
+   },
+   {
+    "n": 733,
+    "merged_at": null,
+    "created_at": "2026-07-28T06:12:32Z",
+    "user": "kapookky123"
+   },
+   {
+    "n": 728,
+    "merged_at": null,
+    "created_at": "2026-07-27T17:08:09Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 727,
+    "merged_at": null,
+    "created_at": "2026-07-27T16:42:48Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 726,
+    "merged_at": null,
+    "created_at": "2026-07-27T16:12:42Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 725,
+    "merged_at": null,
+    "created_at": "2026-07-27T15:39:34Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 724,
+    "merged_at": null,
+    "created_at": "2026-07-27T15:12:30Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 723,
+    "merged_at": null,
+    "created_at": "2026-07-27T14:41:57Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 722,
+    "merged_at": null,
+    "created_at": "2026-07-27T14:13:32Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 721,
+    "merged_at": null,
+    "created_at": "2026-07-27T13:43:25Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 720,
+    "merged_at": null,
+    "created_at": "2026-07-27T13:12:30Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 719,
+    "merged_at": null,
+    "created_at": "2026-07-27T12:44:40Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 718,
+    "merged_at": null,
+    "created_at": "2026-07-27T12:14:04Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 717,
+    "merged_at": null,
+    "created_at": "2026-07-27T11:40:39Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 716,
+    "merged_at": null,
+    "created_at": "2026-07-27T11:09:38Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 715,
+    "merged_at": null,
+    "created_at": "2026-07-27T10:42:48Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 714,
+    "merged_at": null,
+    "created_at": "2026-07-27T10:13:15Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 713,
+    "merged_at": null,
+    "created_at": "2026-07-27T09:42:30Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 712,
+    "merged_at": null,
+    "created_at": "2026-07-27T09:12:40Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 711,
+    "merged_at": null,
+    "created_at": "2026-07-27T08:43:27Z",
+    "user": "charlieseay"
+   },
+   {
+    "n": 709,
+    "merged_at": null,
+    "created_at": "2026-07-27T01:27:54Z",
+    "user": "ghost"
+   },
+   {
+    "n": 708,
+    "merged_at": null,
+    "created_at": "2026-07-27T01:25:51Z",
+    "user": "ghost"
+   },
+   {
+    "n": 701,
+    "merged_at": null,
+    "created_at": "2026-07-25T15:47:14Z",
+    "user": "AfaAgent"
+   },
+   {
+    "n": 694,
+    "merged_at": null,
+    "created_at": "2026-07-24T21:08:44Z",
+    "user": "ghost"
+   },
+   {
+    "n": 688,
+    "merged_at": null,
+    "created_at": "2026-07-24T09:15:33Z",
+    "user": "ghost"
+   },
+   {
+    "n": 528,
+    "merged_at": null,
+    "created_at": "2026-07-19T08:58:23Z",
+    "user": "yh-liao-07"
+   }
+  ],
+  "readme": "🌐 [English](README.en.md) | [中文](README.md)\n\n# 🏆 赏金广场\n\n> 真实赏金任务聚合平台\n> 完成修复赚取积分，积分可兑换现金。\n\n---\n\n## 🪙 你能拿多少钱\n\n```\n你的现金 = 赏金(USD) × 1.25 × R × 0.72\n```\n\n| 赏金区间 | R（你的分成） | 实际到手 ≈ 赏金的 |\n|----------|:-----------:|:---------------:|\n| $25 - $50 | **95%** | 85.5% |\n| $50 - $200 | **92%** | 82.8% |\n| $200 - $500 | **90%** | 81.0% |\n| $500 - $1000 | **87%** | 78.3% |\n| $1000+ | **85%** | 76.5% |\n\n### 速算表\n\n| 赏金 | 你到手 |\n|------|:------:|\n| $30 | ≈ $25.65 |\n| $100 | ≈ $82.80 |\n| $350 | ≈ $283.50 |\n| $750 | ≈ $587.25 |\n| $2000 | ≈ $1,530.00 |\n\n> 兑换汇率：**1 积分 = 0.72 USD**（固定不变）\n> 最低兑换：**100 积分起兑**\n\n---\n\n## 📋 提交规则\n\n- 所有修复通过 **Pull Request** 提交\n- 每个 PR 必须包含：\n  - ✅ 能工作的修复代码\n  - ✅ 修复说明\n  - ✅ 测试用例（如果适用）\n\n## 📊 评分标准\n\n| 维度 | 权重 | 评分方式 |\n|------|:----:|----------|\n| 功能正确性 | **40%** | pytest 全量测试。全部通过 = 40 分；有任何失败 = 一票否决 0 分 |\n| 安全性 | **35%** | AST 静态分析 + 安全扫描。检测到 1 项违规扣 7 分 |\n| 代码质量 | **15%** | pylint 评分。圈复杂度超阈值每个扣 1 分 |\n| 性能 | **10%** | 执行时间对比基线评分 |\n\n### 一票否决（总分直接 0 分）\n\n- 直接 return 预期输出（AST 检测）\n- 删除/清空测试用例\n- 使用禁止模块（pickle / marshal / ctypes / eval / exec）\n- 危险系统调用（os.system / subprocess.Popen 等）\n- 代码为空或乱码\n- bandit 高危安全告警\n\n### 达标线\n\n| 分数 | 结果 |\n|:----:|:----:|\n| **≥ 90 分** | ✅ 达标，可进入排名 |\n| < 90 分 | ❌ 未达标，可修改后重新提交 |\n\n## 🏆 判定规则\n\n1. 评分 ≥ 90 分的提交才有资格获胜\n2. 从达标提交中按质量分从高到低排序\n3. **质量高者获胜**\n4. 质量相同时 → **先提交的获胜**\n5. 提交时间相同时 → **代码质量高的获胜**\n6. 获胜者确定后关闭 Issue\n\n## 🏅 排行榜\n\n| 排名 | 参与者 | 积分 | 折合现金 | 完成任务 |\n|:---:|:------:|:----:|:--------:|:--------:|\n| — | 暂无排名 | — | — | — |\n\n> 提交第一个 PR 即可上榜，排行榜自动更新。\n\n## ❌ 禁止行为（检测到即拉黑，不可申诉）\n\n- 抄袭他人提交 → 拉黑\n- 提交恶意代码 → 拉黑\n- 多个账号参与同一任务 → 拉黑\n- 提交不相关的代码 → 拉黑\n- 篡改测试用例骗取评分 → 拉黑\n\n---\n\n> 💡 有问题？在 Issue 中评论或联系管理员。\n",
+  "counts": {
+   "closed": 162,
+   "merged": 0,
+   "sampled": false
+  },
+  "counts_read_at": "2026-10-17T03:35Z",
+  "prs_note": "bounded sample (max 8 pages x 100) taken 2026-10-16; counts[] above is the exact total"
+ },
+ "tine1117_oss-hunter-livefire": {
+  "slug": "tine1117/oss-hunter-livefire",
+  "repo": {
+   "full_name": "tine1117/oss-hunter-livefire",
+   "description": "Sandbox fixture for testing an automated OSS bounty-solving workflow",
+   "size": 6,
+   "stargazers_count": 24,
+   "forks_count": 151,
+   "open_issues_count": 148,
+   "created_at": "2026-06-01T14:37:00Z",
+   "pushed_at": "2026-06-18T13:08:49Z",
+   "language": "Python",
+   "license": null
+  },
+  "prs": [
+   {
+    "n": 178,
+    "merged_at": null,
+    "created_at": "2026-10-13T09:31:57Z",
+    "user": "Angelel02"
+   },
+   {
+    "n": 177,
+    "merged_at": null,
+    "created_at": "2026-10-13T09:17:17Z",
+    "user": "Angelel02"
+   },
+   {
+    "n": 176,
+    "merged_at": null,
+    "created_at": "2026-10-13T09:15:58Z",
+    "user": "Angelel02"
+   },
+   {
+    "n": 175,
+    "merged_at": null,
+    "created_at": "2026-10-13T08:43:45Z",
+    "user": "Angelel02"
+   },
+   {
+    "n": 174,
+    "merged_at": null,
+    "created_at": "2026-10-13T08:25:08Z",
+    "user": "Angelel02"
+   },
+   {
+    "n": 173,
+    "merged_at": null,
+    "created_at": "2026-10-13T08:22:18Z",
+    "user": "Angelel02"
+   },
+   {
+    "n": 171,
+    "merged_at": null,
+    "created_at": "2026-10-11T15:54:41Z",
+    "user": "JMH-22"
+   },
+   {
+    "n": 147,
+    "merged_at": null,
+    "created_at": "2026-09-22T12:52:39Z",
+    "user": "pullitall"
+   },
+   {
+    "n": 145,
+    "merged_at": null,
+    "created_at": "2026-09-22T09:48:05Z",
+    "user": "themaksat"
+   },
+   {
+    "n": 143,
+    "merged_at": null,
+    "created_at": "2026-09-18T17:53:17Z",
+    "user": "Myncellium"
+   },
+   {
+    "n": 142,
+    "merged_at": null,
+    "created_at": "2026-09-18T17:33:12Z",
+    "user": "ViniciusF-Pereira"
+   },
+   {
+    "n": 135,
+    "merged_at": null,
+    "created_at": "2026-09-10T09:05:32Z",
+    "user": "NEXURALAB"
+   },
+   {
+    "n": 134,
+    "merged_at": null,
+    "created_at": "2026-09-10T05:25:28Z",
+    "user": "freeneyjared17"
+   },
+   {
+    "n": 122,
+    "merged_at": null,
+    "created_at": "2026-08-21T11:26:41Z",
+    "user": "WNordbergg"
+   },
+   {
+    "n": 121,
+    "merged_at": null,
+    "created_at": "2026-08-18T10:56:37Z",
+    "user": "samuel1bostanica-arch"
+   },
+   {
+    "n": 114,
+    "merged_at": null,
+    "created_at": "2026-07-31T07:34:49Z",
+    "user": "devjumx2"
+   },
+   {
+    "n": 110,
+    "merged_at": null,
+    "created_at": "2026-07-27T04:35:51Z",
+    "user": "ghost"
+   },
+   {
+    "n": 99,
+    "merged_at": null,
+    "created_at": "2026-07-13T04:28:57Z",
+    "user": "slipknoo822-lang"
+   },
+   {
+    "n": 69,
+    "merged_at": null,
+    "created_at": "2026-06-18T05:52:12Z",
+    "user": "thanhle74"
+   },
+   {
+    "n": 64,
+    "merged_at": null,
+    "created_at": "2026-06-14T17:11:13Z",
+    "user": "ambientclaw-commits"
+   },
+   {
+    "n": 45,
+    "merged_at": null,
+    "created_at": "2026-06-07T15:24:59Z",
+    "user": "benkwok1983-cmd"
+   },
+   {
+    "n": 42,
+    "merged_at": null,
+    "created_at": "2026-06-06T21:30:55Z",
+    "user": "Ishant5436"
+   },
+   {
+    "n": 36,
+    "merged_at": null,
+    "created_at": "2026-06-05T14:13:17Z",
+    "user": "Ishant5436"
+   },
+   {
+    "n": 31,
+    "merged_at": null,
+    "created_at": "2026-06-05T08:31:47Z",
+    "user": "Danop404"
+   },
+   {
+    "n": 28,
+    "merged_at": null,
+    "created_at": "2026-06-05T01:46:25Z",
+    "user": "chenfusong6-droid"
+   },
+   {
+    "n": 6,
+    "merged_at": null,
+    "created_at": "2026-06-01T14:53:15Z",
+    "user": "KHHH2312"
+   },
+   {
+    "n": 5,
+    "merged_at": null,
+    "created_at": "2026-06-01T14:48:07Z",
+    "user": "Tomrun97"
+   },
+   {
+    "n": 4,
+    "merged_at": null,
+    "created_at": "2026-06-01T14:45:39Z",
+    "user": "alienbigking"
+   },
+   {
+    "n": 2,
+    "merged_at": null,
+    "created_at": "2026-06-01T14:39:12Z",
+    "user": "tine1117"
+   }
+  ],
+  "readme": "## Essential Guidelines\n\n- Please subscribe to the starred oss-hunter-livefire repository before writing a PR.\n- Please follow tine1117's GitHub account.\n  \n# duration-utils\n\nA tiny, dependency-free parser for human-friendly duration strings.\n\n```python\nfrom duration_utils import parse_duration\n\nparse_duration(\"1h30m\")   # 5400\nparse_duration(\"1w\")      # 604800\n```\n\nSupported units: `w` (weeks), `d` (days), `h` (hours), `m` (minutes), `s` (seconds).\n\n## Develop\n\n```bash\npython -m unittest discover -s tests\n```\n\n---\n\n> ⚠️ This repository is a **sandbox / test fixture** used to exercise an automated\n> bounty-solving workflow end-to-end. It is not a production project.\n",
+  "counts": {
+   "closed": 30,
+   "merged": 0,
+   "sampled": false
+  },
+  "counts_read_at": "2026-10-17T03:35Z",
+  "prs_note": "bounded sample (max 8 pages x 100) taken 2026-10-16; counts[] above is the exact total"
+ },
+ "Uuriko_project-room": {
+  "slug": "Uuriko/project-room",
+  "repo": {
+   "full_name": "Uuriko/project-room",
+   "description": "A shared workspace where people and AI agents work together. Agents join over MCP or HTTP, claim tasks on a shared board, hand off work, and leave verifiable public receipts. Open source and self-hostable.",
+   "size": 49066,
+   "stargazers_count": 1,
+   "forks_count": 8,
+   "open_issues_count": 347,
+   "created_at": "2026-09-05T09:13:53Z",
+   "pushed_at": "2026-10-16T03:33:59Z",
+   "language": "JavaScript",
+   "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+   }
+  },
+  "prs": [
+   {
+    "n": 3656,
+    "merged_at": null,
+    "created_at": "2026-10-16T02:07:45Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3589,
+    "merged_at": "2026-10-16T03:33:17Z",
+    "created_at": "2026-10-15T23:59:50Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3581,
+    "merged_at": "2026-10-16T00:51:45Z",
+    "created_at": "2026-10-15T23:38:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3576,
+    "merged_at": "2026-10-16T02:47:54Z",
+    "created_at": "2026-10-15T23:26:56Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3567,
+    "merged_at": "2026-10-16T00:47:05Z",
+    "created_at": "2026-10-15T22:32:43Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3565,
+    "merged_at": "2026-10-16T02:55:40Z",
+    "created_at": "2026-10-15T22:32:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3561,
+    "merged_at": "2026-10-15T23:25:54Z",
+    "created_at": "2026-10-15T22:18:21Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3559,
+    "merged_at": "2026-10-15T22:31:17Z",
+    "created_at": "2026-10-15T22:04:42Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3558,
+    "merged_at": "2026-10-15T23:41:12Z",
+    "created_at": "2026-10-15T22:00:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3555,
+    "merged_at": "2026-10-15T22:10:23Z",
+    "created_at": "2026-10-15T21:36:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3554,
+    "merged_at": "2026-10-15T21:58:09Z",
+    "created_at": "2026-10-15T21:35:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3553,
+    "merged_at": "2026-10-15T23:07:48Z",
+    "created_at": "2026-10-15T21:30:41Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3552,
+    "merged_at": "2026-10-15T23:52:00Z",
+    "created_at": "2026-10-15T21:30:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3551,
+    "merged_at": "2026-10-15T22:24:33Z",
+    "created_at": "2026-10-15T21:04:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3543,
+    "merged_at": "2026-10-16T01:15:44Z",
+    "created_at": "2026-10-15T20:05:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3542,
+    "merged_at": "2026-10-15T20:56:41Z",
+    "created_at": "2026-10-15T20:03:58Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3540,
+    "merged_at": "2026-10-15T20:19:51Z",
+    "created_at": "2026-10-15T19:59:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3539,
+    "merged_at": "2026-10-15T20:19:45Z",
+    "created_at": "2026-10-15T19:53:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3538,
+    "merged_at": "2026-10-15T20:12:39Z",
+    "created_at": "2026-10-15T19:50:02Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3537,
+    "merged_at": "2026-10-15T20:56:46Z",
+    "created_at": "2026-10-15T19:48:36Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3536,
+    "merged_at": "2026-10-15T21:21:29Z",
+    "created_at": "2026-10-15T19:44:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3535,
+    "merged_at": "2026-10-15T19:53:25Z",
+    "created_at": "2026-10-15T19:35:49Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3533,
+    "merged_at": "2026-10-15T19:57:50Z",
+    "created_at": "2026-10-15T19:34:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3522,
+    "merged_at": "2026-10-15T16:09:17Z",
+    "created_at": "2026-10-15T15:49:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3521,
+    "merged_at": "2026-10-15T15:03:46Z",
+    "created_at": "2026-10-15T13:58:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3520,
+    "merged_at": "2026-10-15T13:02:57Z",
+    "created_at": "2026-10-15T12:37:13Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3518,
+    "merged_at": "2026-10-15T11:08:52Z",
+    "created_at": "2026-10-15T08:43:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3517,
+    "merged_at": "2026-10-15T07:51:29Z",
+    "created_at": "2026-10-15T07:23:58Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3516,
+    "merged_at": "2026-10-15T08:07:21Z",
+    "created_at": "2026-10-15T07:21:17Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3515,
+    "merged_at": "2026-10-15T06:35:48Z",
+    "created_at": "2026-10-15T06:15:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3514,
+    "merged_at": "2026-10-15T06:35:11Z",
+    "created_at": "2026-10-15T06:01:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3513,
+    "merged_at": "2026-10-15T05:59:49Z",
+    "created_at": "2026-10-15T05:06:41Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3512,
+    "merged_at": null,
+    "created_at": "2026-10-15T04:35:08Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3511,
+    "merged_at": "2026-10-15T04:51:26Z",
+    "created_at": "2026-10-15T04:33:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3510,
+    "merged_at": "2026-10-15T05:59:51Z",
+    "created_at": "2026-10-15T04:13:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3509,
+    "merged_at": "2026-10-15T04:33:38Z",
+    "created_at": "2026-10-15T04:09:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3508,
+    "merged_at": "2026-10-15T05:45:38Z",
+    "created_at": "2026-10-15T04:04:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3505,
+    "merged_at": "2026-10-15T02:54:43Z",
+    "created_at": "2026-10-15T02:26:33Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3504,
+    "merged_at": "2026-10-15T03:14:00Z",
+    "created_at": "2026-10-15T02:22:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3503,
+    "merged_at": null,
+    "created_at": "2026-10-15T02:02:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3502,
+    "merged_at": "2026-10-15T02:23:30Z",
+    "created_at": "2026-10-15T02:00:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3501,
+    "merged_at": "2026-10-15T02:23:26Z",
+    "created_at": "2026-10-15T01:54:00Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3500,
+    "merged_at": "2026-10-15T01:17:59Z",
+    "created_at": "2026-10-14T23:41:28Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3499,
+    "merged_at": "2026-10-15T03:14:14Z",
+    "created_at": "2026-10-14T23:38:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3498,
+    "merged_at": "2026-10-15T02:23:21Z",
+    "created_at": "2026-10-14T23:37:43Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3497,
+    "merged_at": "2026-10-15T01:18:01Z",
+    "created_at": "2026-10-14T23:37:17Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3496,
+    "merged_at": "2026-10-15T01:18:01Z",
+    "created_at": "2026-10-14T23:20:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3495,
+    "merged_at": "2026-10-15T03:14:09Z",
+    "created_at": "2026-10-14T23:18:13Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3494,
+    "merged_at": "2026-10-15T01:18:01Z",
+    "created_at": "2026-10-14T23:17:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3493,
+    "merged_at": "2026-10-15T01:38:25Z",
+    "created_at": "2026-10-14T23:16:26Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3492,
+    "merged_at": "2026-10-14T23:41:02Z",
+    "created_at": "2026-10-14T23:15:34Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3491,
+    "merged_at": "2026-10-15T03:14:05Z",
+    "created_at": "2026-10-14T23:03:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3490,
+    "merged_at": "2026-10-14T23:35:09Z",
+    "created_at": "2026-10-14T22:57:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3489,
+    "merged_at": "2026-10-14T23:35:01Z",
+    "created_at": "2026-10-14T22:54:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3488,
+    "merged_at": "2026-10-14T23:34:53Z",
+    "created_at": "2026-10-14T22:54:33Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3487,
+    "merged_at": "2026-10-15T01:18:00Z",
+    "created_at": "2026-10-14T22:39:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3486,
+    "merged_at": "2026-10-15T03:14:19Z",
+    "created_at": "2026-10-14T22:36:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3485,
+    "merged_at": "2026-10-14T23:34:45Z",
+    "created_at": "2026-10-14T22:32:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3484,
+    "merged_at": "2026-10-15T01:38:19Z",
+    "created_at": "2026-10-14T22:30:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3482,
+    "merged_at": "2026-10-15T01:18:03Z",
+    "created_at": "2026-10-14T21:58:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3480,
+    "merged_at": "2026-10-14T23:41:05Z",
+    "created_at": "2026-10-14T21:42:50Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3479,
+    "merged_at": "2026-10-15T01:18:01Z",
+    "created_at": "2026-10-14T21:31:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3478,
+    "merged_at": null,
+    "created_at": "2026-10-14T21:29:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3477,
+    "merged_at": "2026-10-14T23:10:38Z",
+    "created_at": "2026-10-14T21:18:10Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3476,
+    "merged_at": "2026-10-14T23:15:58Z",
+    "created_at": "2026-10-14T21:09:22Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3475,
+    "merged_at": "2026-10-14T23:15:36Z",
+    "created_at": "2026-10-14T21:07:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3474,
+    "merged_at": null,
+    "created_at": "2026-10-14T21:06:15Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3473,
+    "merged_at": "2026-10-14T22:05:22Z",
+    "created_at": "2026-10-14T21:04:55Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3472,
+    "merged_at": "2026-10-14T23:14:04Z",
+    "created_at": "2026-10-14T20:57:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3471,
+    "merged_at": "2026-10-14T23:13:15Z",
+    "created_at": "2026-10-14T20:56:10Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3470,
+    "merged_at": "2026-10-14T23:15:04Z",
+    "created_at": "2026-10-14T20:54:26Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3469,
+    "merged_at": "2026-10-15T21:35:16Z",
+    "created_at": "2026-10-14T20:52:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3468,
+    "merged_at": "2026-10-14T23:14:43Z",
+    "created_at": "2026-10-14T20:52:02Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3467,
+    "merged_at": null,
+    "created_at": "2026-10-14T20:44:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3466,
+    "merged_at": null,
+    "created_at": "2026-10-14T20:44:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3463,
+    "merged_at": "2026-10-14T18:03:26Z",
+    "created_at": "2026-10-14T17:05:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3462,
+    "merged_at": "2026-10-14T16:45:11Z",
+    "created_at": "2026-10-14T16:36:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3461,
+    "merged_at": "2026-10-14T17:03:47Z",
+    "created_at": "2026-10-14T16:08:29Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3458,
+    "merged_at": "2026-10-14T16:06:30Z",
+    "created_at": "2026-10-14T15:05:02Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3457,
+    "merged_at": "2026-10-14T15:03:17Z",
+    "created_at": "2026-10-14T13:19:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3456,
+    "merged_at": "2026-10-14T14:11:12Z",
+    "created_at": "2026-10-14T11:32:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3455,
+    "merged_at": "2026-10-14T12:31:44Z",
+    "created_at": "2026-10-14T11:06:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3454,
+    "merged_at": "2026-10-14T13:19:16Z",
+    "created_at": "2026-10-14T10:58:26Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3453,
+    "merged_at": "2026-10-14T11:10:50Z",
+    "created_at": "2026-10-14T10:26:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3452,
+    "merged_at": "2026-10-14T12:06:23Z",
+    "created_at": "2026-10-14T10:26:27Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3451,
+    "merged_at": "2026-10-14T12:04:26Z",
+    "created_at": "2026-10-14T10:08:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3450,
+    "merged_at": "2026-10-14T11:03:48Z",
+    "created_at": "2026-10-14T10:06:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3449,
+    "merged_at": "2026-10-14T11:04:36Z",
+    "created_at": "2026-10-14T10:05:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3448,
+    "merged_at": "2026-10-14T10:04:51Z",
+    "created_at": "2026-10-14T09:28:04Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3447,
+    "merged_at": "2026-10-14T10:03:07Z",
+    "created_at": "2026-10-14T09:26:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3446,
+    "merged_at": "2026-10-14T10:04:02Z",
+    "created_at": "2026-10-14T09:25:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3445,
+    "merged_at": "2026-10-14T09:42:01Z",
+    "created_at": "2026-10-14T08:53:26Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3444,
+    "merged_at": "2026-10-14T08:53:04Z",
+    "created_at": "2026-10-14T08:37:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3443,
+    "merged_at": "2026-10-14T11:37:56Z",
+    "created_at": "2026-10-14T08:22:58Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3442,
+    "merged_at": "2026-10-14T10:38:53Z",
+    "created_at": "2026-10-14T08:22:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3441,
+    "merged_at": "2026-10-14T08:17:29Z",
+    "created_at": "2026-10-14T07:25:11Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3440,
+    "merged_at": "2026-10-14T08:16:27Z",
+    "created_at": "2026-10-14T07:24:08Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3439,
+    "merged_at": "2026-10-14T08:03:47Z",
+    "created_at": "2026-10-14T07:23:04Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3430,
+    "merged_at": "2026-10-14T08:00:47Z",
+    "created_at": "2026-10-14T06:14:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3429,
+    "merged_at": "2026-10-14T06:55:42Z",
+    "created_at": "2026-10-14T06:06:33Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3428,
+    "merged_at": "2026-10-14T11:07:20Z",
+    "created_at": "2026-10-14T06:02:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3427,
+    "merged_at": "2026-10-14T07:01:08Z",
+    "created_at": "2026-10-14T06:01:02Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3426,
+    "merged_at": "2026-10-14T06:50:20Z",
+    "created_at": "2026-10-14T05:56:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3425,
+    "merged_at": "2026-10-14T07:05:58Z",
+    "created_at": "2026-10-14T05:45:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3424,
+    "merged_at": "2026-10-14T07:00:48Z",
+    "created_at": "2026-10-14T05:41:43Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3423,
+    "merged_at": "2026-10-14T06:35:32Z",
+    "created_at": "2026-10-14T05:37:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3422,
+    "merged_at": "2026-10-14T06:30:35Z",
+    "created_at": "2026-10-14T05:35:15Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3421,
+    "merged_at": "2026-10-14T15:04:34Z",
+    "created_at": "2026-10-14T05:34:25Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3420,
+    "merged_at": "2026-10-14T10:27:32Z",
+    "created_at": "2026-10-14T05:30:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3418,
+    "merged_at": "2026-10-14T06:55:25Z",
+    "created_at": "2026-10-14T05:24:39Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3417,
+    "merged_at": "2026-10-14T11:25:32Z",
+    "created_at": "2026-10-14T05:18:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3415,
+    "merged_at": "2026-10-14T06:30:22Z",
+    "created_at": "2026-10-14T05:10:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3414,
+    "merged_at": "2026-10-14T05:33:18Z",
+    "created_at": "2026-10-14T05:03:22Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3412,
+    "merged_at": "2026-10-14T05:30:15Z",
+    "created_at": "2026-10-14T04:59:47Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3411,
+    "merged_at": "2026-10-14T06:55:32Z",
+    "created_at": "2026-10-14T04:59:04Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3410,
+    "merged_at": "2026-10-14T05:16:46Z",
+    "created_at": "2026-10-14T04:53:26Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3405,
+    "merged_at": "2026-10-14T05:32:37Z",
+    "created_at": "2026-10-14T04:48:47Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3402,
+    "merged_at": "2026-10-14T04:52:45Z",
+    "created_at": "2026-10-14T04:15:32Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3392,
+    "merged_at": "2026-10-14T04:23:58Z",
+    "created_at": "2026-10-14T04:01:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3391,
+    "merged_at": null,
+    "created_at": "2026-10-14T03:50:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3389,
+    "merged_at": "2026-10-14T03:59:04Z",
+    "created_at": "2026-10-14T03:30:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3388,
+    "merged_at": "2026-10-14T04:09:02Z",
+    "created_at": "2026-10-14T03:26:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3387,
+    "merged_at": "2026-10-14T04:08:54Z",
+    "created_at": "2026-10-14T03:22:47Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3386,
+    "merged_at": "2026-10-14T04:08:45Z",
+    "created_at": "2026-10-14T03:22:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3385,
+    "merged_at": "2026-10-14T03:40:28Z",
+    "created_at": "2026-10-14T03:11:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3384,
+    "merged_at": "2026-10-14T04:08:36Z",
+    "created_at": "2026-10-14T03:11:33Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3366,
+    "merged_at": "2026-10-14T04:28:03Z",
+    "created_at": "2026-10-14T02:45:45Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3364,
+    "merged_at": "2026-10-14T05:13:23Z",
+    "created_at": "2026-10-14T02:36:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3363,
+    "merged_at": "2026-10-14T03:38:25Z",
+    "created_at": "2026-10-14T02:32:41Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3362,
+    "merged_at": "2026-10-14T06:18:58Z",
+    "created_at": "2026-10-14T02:32:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3361,
+    "merged_at": "2026-10-14T03:43:00Z",
+    "created_at": "2026-10-14T02:23:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3360,
+    "merged_at": "2026-10-14T10:56:43Z",
+    "created_at": "2026-10-14T02:23:26Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3359,
+    "merged_at": "2026-10-14T06:29:13Z",
+    "created_at": "2026-10-14T02:22:08Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3358,
+    "merged_at": "2026-10-14T07:00:57Z",
+    "created_at": "2026-10-14T02:20:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3357,
+    "merged_at": "2026-10-14T04:08:07Z",
+    "created_at": "2026-10-14T02:20:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3356,
+    "merged_at": "2026-10-14T04:06:53Z",
+    "created_at": "2026-10-14T02:14:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3355,
+    "merged_at": "2026-10-14T04:08:17Z",
+    "created_at": "2026-10-14T02:09:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3354,
+    "merged_at": "2026-10-14T08:04:34Z",
+    "created_at": "2026-10-14T02:02:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3353,
+    "merged_at": "2026-10-14T03:35:19Z",
+    "created_at": "2026-10-14T01:46:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3352,
+    "merged_at": "2026-10-14T02:06:30Z",
+    "created_at": "2026-10-14T01:45:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3351,
+    "merged_at": "2026-10-14T08:27:25Z",
+    "created_at": "2026-10-14T01:35:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3348,
+    "merged_at": "2026-10-14T03:45:54Z",
+    "created_at": "2026-10-14T01:34:20Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3347,
+    "merged_at": null,
+    "created_at": "2026-10-14T01:33:13Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3346,
+    "merged_at": "2026-10-14T07:20:52Z",
+    "created_at": "2026-10-14T01:31:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3339,
+    "merged_at": "2026-10-14T03:58:58Z",
+    "created_at": "2026-10-14T01:09:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3338,
+    "merged_at": "2026-10-14T03:44:36Z",
+    "created_at": "2026-10-14T01:08:04Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3337,
+    "merged_at": "2026-10-14T01:54:16Z",
+    "created_at": "2026-10-14T01:02:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3336,
+    "merged_at": "2026-10-14T12:49:04Z",
+    "created_at": "2026-10-14T01:01:21Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3335,
+    "merged_at": "2026-10-14T01:43:16Z",
+    "created_at": "2026-10-14T00:59:21Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3333,
+    "merged_at": "2026-10-14T04:08:26Z",
+    "created_at": "2026-10-14T00:51:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3332,
+    "merged_at": "2026-10-14T01:17:32Z",
+    "created_at": "2026-10-14T00:49:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3331,
+    "merged_at": null,
+    "created_at": "2026-10-14T00:48:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3330,
+    "merged_at": "2026-10-14T10:57:18Z",
+    "created_at": "2026-10-14T00:46:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3329,
+    "merged_at": "2026-10-14T01:19:26Z",
+    "created_at": "2026-10-14T00:45:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3328,
+    "merged_at": "2026-10-14T01:11:51Z",
+    "created_at": "2026-10-14T00:43:43Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3327,
+    "merged_at": "2026-10-14T00:59:52Z",
+    "created_at": "2026-10-14T00:43:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3321,
+    "merged_at": "2026-10-14T01:03:44Z",
+    "created_at": "2026-10-14T00:34:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3320,
+    "merged_at": "2026-10-14T00:59:50Z",
+    "created_at": "2026-10-14T00:32:13Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3319,
+    "merged_at": null,
+    "created_at": "2026-10-14T00:32:13Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3317,
+    "merged_at": "2026-10-14T08:08:34Z",
+    "created_at": "2026-10-14T00:23:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3316,
+    "merged_at": "2026-10-14T00:24:12Z",
+    "created_at": "2026-10-14T00:05:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3315,
+    "merged_at": "2026-10-14T00:29:55Z",
+    "created_at": "2026-10-13T23:48:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3314,
+    "merged_at": "2026-10-14T00:19:55Z",
+    "created_at": "2026-10-13T23:46:24Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3313,
+    "merged_at": "2026-10-14T00:10:36Z",
+    "created_at": "2026-10-13T23:39:42Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3312,
+    "merged_at": "2026-10-14T00:11:45Z",
+    "created_at": "2026-10-13T23:35:15Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3311,
+    "merged_at": "2026-10-14T00:00:08Z",
+    "created_at": "2026-10-13T23:34:25Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3310,
+    "merged_at": "2026-10-14T00:11:51Z",
+    "created_at": "2026-10-13T23:33:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3309,
+    "merged_at": null,
+    "created_at": "2026-10-13T23:28:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3306,
+    "merged_at": "2026-10-14T11:09:08Z",
+    "created_at": "2026-10-13T23:19:15Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3304,
+    "merged_at": "2026-10-14T00:21:09Z",
+    "created_at": "2026-10-13T23:01:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3303,
+    "merged_at": "2026-10-13T23:40:19Z",
+    "created_at": "2026-10-13T22:54:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3300,
+    "merged_at": "2026-10-14T00:07:58Z",
+    "created_at": "2026-10-13T22:36:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3298,
+    "merged_at": "2026-10-13T23:45:38Z",
+    "created_at": "2026-10-13T22:23:27Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3297,
+    "merged_at": "2026-10-13T23:27:43Z",
+    "created_at": "2026-10-13T22:21:25Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3296,
+    "merged_at": "2026-10-13T23:30:31Z",
+    "created_at": "2026-10-13T22:18:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3286,
+    "merged_at": "2026-10-14T07:06:11Z",
+    "created_at": "2026-10-13T22:04:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3284,
+    "merged_at": "2026-10-13T23:56:53Z",
+    "created_at": "2026-10-13T21:58:20Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3283,
+    "merged_at": "2026-10-14T05:01:38Z",
+    "created_at": "2026-10-13T21:57:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3282,
+    "merged_at": "2026-10-13T23:50:52Z",
+    "created_at": "2026-10-13T21:57:00Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3276,
+    "merged_at": "2026-10-13T23:39:28Z",
+    "created_at": "2026-10-13T21:54:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3267,
+    "merged_at": "2026-10-14T08:00:37Z",
+    "created_at": "2026-10-13T21:50:13Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3258,
+    "merged_at": "2026-10-13T23:48:24Z",
+    "created_at": "2026-10-13T21:46:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3253,
+    "merged_at": "2026-10-14T04:27:00Z",
+    "created_at": "2026-10-13T21:41:39Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3252,
+    "merged_at": "2026-10-13T23:50:55Z",
+    "created_at": "2026-10-13T21:40:50Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3250,
+    "merged_at": "2026-10-14T06:24:06Z",
+    "created_at": "2026-10-13T21:28:21Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3248,
+    "merged_at": "2026-10-14T06:03:16Z",
+    "created_at": "2026-10-13T21:27:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3247,
+    "merged_at": "2026-10-13T23:21:18Z",
+    "created_at": "2026-10-13T21:27:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3245,
+    "merged_at": "2026-10-13T22:40:31Z",
+    "created_at": "2026-10-13T21:22:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3244,
+    "merged_at": "2026-10-13T21:58:05Z",
+    "created_at": "2026-10-13T21:15:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3243,
+    "merged_at": "2026-10-13T22:19:44Z",
+    "created_at": "2026-10-13T21:14:00Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3242,
+    "merged_at": "2026-10-13T21:59:38Z",
+    "created_at": "2026-10-13T21:10:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3241,
+    "merged_at": "2026-10-13T23:26:12Z",
+    "created_at": "2026-10-13T21:07:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3240,
+    "merged_at": "2026-10-13T23:53:14Z",
+    "created_at": "2026-10-13T21:05:56Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3238,
+    "merged_at": "2026-10-13T23:47:12Z",
+    "created_at": "2026-10-13T21:00:39Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3237,
+    "merged_at": "2026-10-14T01:49:59Z",
+    "created_at": "2026-10-13T21:00:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3235,
+    "merged_at": "2026-10-13T23:04:12Z",
+    "created_at": "2026-10-13T20:54:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3234,
+    "merged_at": "2026-10-13T22:52:43Z",
+    "created_at": "2026-10-13T20:51:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3233,
+    "merged_at": "2026-10-14T00:00:29Z",
+    "created_at": "2026-10-13T20:50:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3232,
+    "merged_at": "2026-10-13T23:02:56Z",
+    "created_at": "2026-10-13T20:49:21Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3231,
+    "merged_at": "2026-10-13T23:07:09Z",
+    "created_at": "2026-10-13T20:43:20Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3228,
+    "merged_at": "2026-10-13T21:21:44Z",
+    "created_at": "2026-10-13T20:41:39Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3227,
+    "merged_at": "2026-10-13T22:56:24Z",
+    "created_at": "2026-10-13T20:39:55Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3223,
+    "merged_at": "2026-10-13T23:24:13Z",
+    "created_at": "2026-10-13T20:35:50Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3215,
+    "merged_at": null,
+    "created_at": "2026-10-13T20:33:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3210,
+    "merged_at": "2026-10-13T21:09:14Z",
+    "created_at": "2026-10-13T20:23:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3208,
+    "merged_at": "2026-10-13T20:28:39Z",
+    "created_at": "2026-10-13T20:09:36Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3206,
+    "merged_at": "2026-10-13T20:20:33Z",
+    "created_at": "2026-10-13T20:01:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3204,
+    "merged_at": "2026-10-13T19:58:26Z",
+    "created_at": "2026-10-13T19:29:43Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3203,
+    "merged_at": "2026-10-13T19:28:16Z",
+    "created_at": "2026-10-13T19:00:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3200,
+    "merged_at": "2026-10-13T17:14:10Z",
+    "created_at": "2026-10-13T16:36:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3199,
+    "merged_at": "2026-10-13T16:51:01Z",
+    "created_at": "2026-10-13T16:31:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3198,
+    "merged_at": "2026-10-13T16:42:56Z",
+    "created_at": "2026-10-13T16:31:15Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3197,
+    "merged_at": "2026-10-13T16:37:58Z",
+    "created_at": "2026-10-13T16:16:36Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3196,
+    "merged_at": "2026-10-13T16:34:58Z",
+    "created_at": "2026-10-13T16:08:13Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3195,
+    "merged_at": "2026-10-13T16:34:56Z",
+    "created_at": "2026-10-13T16:02:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3194,
+    "merged_at": "2026-10-13T16:32:32Z",
+    "created_at": "2026-10-13T15:58:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3193,
+    "merged_at": "2026-10-13T16:30:54Z",
+    "created_at": "2026-10-13T15:57:36Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3192,
+    "merged_at": "2026-10-13T16:18:40Z",
+    "created_at": "2026-10-13T15:45:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3191,
+    "merged_at": "2026-10-13T16:25:20Z",
+    "created_at": "2026-10-13T15:43:15Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3190,
+    "merged_at": "2026-10-13T16:21:04Z",
+    "created_at": "2026-10-13T15:41:49Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3189,
+    "merged_at": "2026-10-13T18:58:35Z",
+    "created_at": "2026-10-13T15:40:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3188,
+    "merged_at": "2026-10-13T16:15:51Z",
+    "created_at": "2026-10-13T15:36:21Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3187,
+    "merged_at": "2026-10-13T16:02:06Z",
+    "created_at": "2026-10-13T15:33:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3186,
+    "merged_at": "2026-10-13T16:04:05Z",
+    "created_at": "2026-10-13T15:33:25Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3185,
+    "merged_at": "2026-10-13T16:09:09Z",
+    "created_at": "2026-10-13T15:31:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3184,
+    "merged_at": "2026-10-13T16:01:12Z",
+    "created_at": "2026-10-13T15:30:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3183,
+    "merged_at": "2026-10-13T16:00:25Z",
+    "created_at": "2026-10-13T15:30:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3182,
+    "merged_at": "2026-10-13T15:41:51Z",
+    "created_at": "2026-10-13T15:16:07Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3181,
+    "merged_at": "2026-10-13T15:28:25Z",
+    "created_at": "2026-10-13T15:07:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3180,
+    "merged_at": "2026-10-13T15:37:31Z",
+    "created_at": "2026-10-13T15:04:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3179,
+    "merged_at": "2026-10-13T16:09:39Z",
+    "created_at": "2026-10-13T15:01:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3178,
+    "merged_at": "2026-10-13T15:45:57Z",
+    "created_at": "2026-10-13T14:58:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3177,
+    "merged_at": "2026-10-13T15:15:58Z",
+    "created_at": "2026-10-13T14:50:58Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3176,
+    "merged_at": null,
+    "created_at": "2026-10-13T14:46:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3175,
+    "merged_at": "2026-10-13T15:13:26Z",
+    "created_at": "2026-10-13T14:39:58Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3174,
+    "merged_at": "2026-10-13T15:24:49Z",
+    "created_at": "2026-10-13T14:39:45Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3173,
+    "merged_at": "2026-10-13T15:06:45Z",
+    "created_at": "2026-10-13T14:38:13Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3172,
+    "merged_at": "2026-10-13T14:57:13Z",
+    "created_at": "2026-10-13T14:30:04Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3171,
+    "merged_at": "2026-10-13T14:57:35Z",
+    "created_at": "2026-10-13T14:27:07Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3170,
+    "merged_at": "2026-10-13T15:31:49Z",
+    "created_at": "2026-10-13T14:19:56Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3169,
+    "merged_at": "2026-10-13T14:36:22Z",
+    "created_at": "2026-10-13T14:17:04Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3168,
+    "merged_at": "2026-10-13T14:31:42Z",
+    "created_at": "2026-10-13T14:07:02Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3167,
+    "merged_at": "2026-10-13T14:21:28Z",
+    "created_at": "2026-10-13T13:59:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3166,
+    "merged_at": "2026-10-13T14:18:18Z",
+    "created_at": "2026-10-13T13:59:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3165,
+    "merged_at": "2026-10-13T13:57:23Z",
+    "created_at": "2026-10-13T13:34:04Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3164,
+    "merged_at": "2026-10-13T13:56:23Z",
+    "created_at": "2026-10-13T13:30:22Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3163,
+    "merged_at": "2026-10-13T14:43:30Z",
+    "created_at": "2026-10-13T13:26:50Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3162,
+    "merged_at": "2026-10-13T13:40:21Z",
+    "created_at": "2026-10-13T13:14:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3161,
+    "merged_at": "2026-10-13T13:36:00Z",
+    "created_at": "2026-10-13T13:11:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3160,
+    "merged_at": "2026-10-13T13:23:40Z",
+    "created_at": "2026-10-13T12:59:34Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3159,
+    "merged_at": "2026-10-13T13:48:05Z",
+    "created_at": "2026-10-13T12:59:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3158,
+    "merged_at": null,
+    "created_at": "2026-10-13T12:50:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3157,
+    "merged_at": "2026-10-13T14:33:37Z",
+    "created_at": "2026-10-13T12:49:36Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3156,
+    "merged_at": "2026-10-13T14:38:17Z",
+    "created_at": "2026-10-13T12:44:47Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3155,
+    "merged_at": "2026-10-13T14:13:31Z",
+    "created_at": "2026-10-13T12:44:10Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3154,
+    "merged_at": "2026-10-13T15:07:27Z",
+    "created_at": "2026-10-13T12:31:49Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3153,
+    "merged_at": "2026-10-13T14:39:24Z",
+    "created_at": "2026-10-13T12:26:26Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3152,
+    "merged_at": "2026-10-13T23:41:14Z",
+    "created_at": "2026-10-13T12:13:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3151,
+    "merged_at": "2026-10-13T23:39:54Z",
+    "created_at": "2026-10-13T12:08:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3150,
+    "merged_at": "2026-10-13T23:38:54Z",
+    "created_at": "2026-10-13T12:05:25Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3149,
+    "merged_at": "2026-10-13T23:35:22Z",
+    "created_at": "2026-10-13T12:04:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3148,
+    "merged_at": "2026-10-13T23:33:41Z",
+    "created_at": "2026-10-13T12:02:27Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3147,
+    "merged_at": "2026-10-13T12:56:20Z",
+    "created_at": "2026-10-13T11:58:20Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3146,
+    "merged_at": "2026-10-13T23:31:24Z",
+    "created_at": "2026-10-13T11:57:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3145,
+    "merged_at": "2026-10-13T23:08:05Z",
+    "created_at": "2026-10-13T11:49:22Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3144,
+    "merged_at": "2026-10-13T23:25:41Z",
+    "created_at": "2026-10-13T11:41:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3143,
+    "merged_at": "2026-10-13T13:52:39Z",
+    "created_at": "2026-10-13T11:35:41Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3142,
+    "merged_at": "2026-10-13T23:19:48Z",
+    "created_at": "2026-10-13T11:32:50Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3141,
+    "merged_at": "2026-10-13T13:55:53Z",
+    "created_at": "2026-10-13T11:29:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3140,
+    "merged_at": "2026-10-13T22:59:14Z",
+    "created_at": "2026-10-13T11:28:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3139,
+    "merged_at": "2026-10-13T13:42:59Z",
+    "created_at": "2026-10-13T11:28:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3138,
+    "merged_at": "2026-10-13T13:25:37Z",
+    "created_at": "2026-10-13T11:27:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3137,
+    "merged_at": "2026-10-13T11:43:27Z",
+    "created_at": "2026-10-13T11:23:55Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3136,
+    "merged_at": "2026-10-13T11:42:52Z",
+    "created_at": "2026-10-13T11:23:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3135,
+    "merged_at": "2026-10-13T11:33:09Z",
+    "created_at": "2026-10-13T11:09:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3134,
+    "merged_at": "2026-10-13T11:22:55Z",
+    "created_at": "2026-10-13T11:07:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3133,
+    "merged_at": "2026-10-13T11:18:20Z",
+    "created_at": "2026-10-13T11:01:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3132,
+    "merged_at": "2026-10-15T21:09:25Z",
+    "created_at": "2026-10-13T11:00:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3131,
+    "merged_at": "2026-10-13T11:21:29Z",
+    "created_at": "2026-10-13T10:58:34Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3130,
+    "merged_at": "2026-10-13T11:12:09Z",
+    "created_at": "2026-10-13T10:51:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3129,
+    "merged_at": "2026-10-13T14:10:17Z",
+    "created_at": "2026-10-13T10:43:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3128,
+    "merged_at": "2026-10-13T11:07:22Z",
+    "created_at": "2026-10-13T10:24:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3127,
+    "merged_at": "2026-10-13T13:42:54Z",
+    "created_at": "2026-10-13T10:21:42Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3126,
+    "merged_at": "2026-10-13T10:48:26Z",
+    "created_at": "2026-10-13T10:19:47Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3125,
+    "merged_at": "2026-10-13T11:04:02Z",
+    "created_at": "2026-10-13T10:16:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3124,
+    "merged_at": "2026-10-13T10:49:29Z",
+    "created_at": "2026-10-13T10:15:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3123,
+    "merged_at": "2026-10-15T19:28:09Z",
+    "created_at": "2026-10-13T10:13:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3122,
+    "merged_at": "2026-10-13T10:38:43Z",
+    "created_at": "2026-10-13T10:11:28Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3121,
+    "merged_at": "2026-10-13T16:20:32Z",
+    "created_at": "2026-10-13T10:10:22Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3120,
+    "merged_at": "2026-10-13T11:12:51Z",
+    "created_at": "2026-10-13T10:09:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3119,
+    "merged_at": "2026-10-13T10:36:07Z",
+    "created_at": "2026-10-13T10:08:17Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3118,
+    "merged_at": "2026-10-13T11:25:38Z",
+    "created_at": "2026-10-13T09:57:04Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3117,
+    "merged_at": null,
+    "created_at": "2026-10-13T09:49:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3116,
+    "merged_at": "2026-10-13T10:34:22Z",
+    "created_at": "2026-10-13T09:44:47Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3115,
+    "merged_at": "2026-10-13T10:23:49Z",
+    "created_at": "2026-10-13T09:43:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3114,
+    "merged_at": "2026-10-13T10:13:53Z",
+    "created_at": "2026-10-13T09:42:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3113,
+    "merged_at": "2026-10-13T11:14:02Z",
+    "created_at": "2026-10-13T09:41:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3112,
+    "merged_at": "2026-10-13T10:09:02Z",
+    "created_at": "2026-10-13T09:41:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3111,
+    "merged_at": "2026-10-13T16:47:37Z",
+    "created_at": "2026-10-13T09:36:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3110,
+    "merged_at": "2026-10-13T09:37:07Z",
+    "created_at": "2026-10-13T09:19:33Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3109,
+    "merged_at": null,
+    "created_at": "2026-10-13T09:03:54Z",
+    "user": "devashish10079"
+   },
+   {
+    "n": 3108,
+    "merged_at": "2026-10-13T09:37:45Z",
+    "created_at": "2026-10-13T09:01:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3107,
+    "merged_at": "2026-10-13T10:07:11Z",
+    "created_at": "2026-10-13T08:56:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3106,
+    "merged_at": "2026-10-15T10:07:00Z",
+    "created_at": "2026-10-13T08:53:08Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3105,
+    "merged_at": "2026-10-13T09:34:24Z",
+    "created_at": "2026-10-13T08:51:20Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3104,
+    "merged_at": null,
+    "created_at": "2026-10-13T08:46:49Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3103,
+    "merged_at": "2026-10-13T10:34:02Z",
+    "created_at": "2026-10-13T08:42:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3102,
+    "merged_at": "2026-10-13T10:46:47Z",
+    "created_at": "2026-10-13T08:42:15Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3101,
+    "merged_at": null,
+    "created_at": "2026-10-13T08:41:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3100,
+    "merged_at": "2026-10-13T09:06:22Z",
+    "created_at": "2026-10-13T08:35:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3099,
+    "merged_at": null,
+    "created_at": "2026-10-13T08:34:55Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3098,
+    "merged_at": "2026-10-13T08:51:13Z",
+    "created_at": "2026-10-13T08:22:22Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3097,
+    "merged_at": "2026-10-13T08:33:22Z",
+    "created_at": "2026-10-13T08:13:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3096,
+    "merged_at": "2026-10-13T08:36:26Z",
+    "created_at": "2026-10-13T08:08:55Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3095,
+    "merged_at": "2026-10-13T09:18:45Z",
+    "created_at": "2026-10-13T08:08:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3094,
+    "merged_at": "2026-10-13T09:55:54Z",
+    "created_at": "2026-10-13T08:04:13Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3093,
+    "merged_at": "2026-10-13T08:27:33Z",
+    "created_at": "2026-10-13T07:55:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3092,
+    "merged_at": "2026-10-13T08:17:13Z",
+    "created_at": "2026-10-13T07:54:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3091,
+    "merged_at": "2026-10-13T10:00:56Z",
+    "created_at": "2026-10-13T07:54:28Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3090,
+    "merged_at": "2026-10-13T10:04:13Z",
+    "created_at": "2026-10-13T07:51:49Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3089,
+    "merged_at": null,
+    "created_at": "2026-10-13T07:50:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3088,
+    "merged_at": "2026-10-13T08:14:02Z",
+    "created_at": "2026-10-13T07:48:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3087,
+    "merged_at": "2026-10-13T08:07:27Z",
+    "created_at": "2026-10-13T07:41:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3086,
+    "merged_at": "2026-10-13T08:02:38Z",
+    "created_at": "2026-10-13T07:35:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3085,
+    "merged_at": "2026-10-13T08:34:45Z",
+    "created_at": "2026-10-13T07:30:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3084,
+    "merged_at": "2026-10-13T07:55:44Z",
+    "created_at": "2026-10-13T07:25:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3083,
+    "merged_at": "2026-10-13T08:01:18Z",
+    "created_at": "2026-10-13T07:25:25Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3082,
+    "merged_at": "2026-10-13T07:47:20Z",
+    "created_at": "2026-10-13T07:13:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3081,
+    "merged_at": "2026-10-13T13:43:50Z",
+    "created_at": "2026-10-13T07:13:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3080,
+    "merged_at": "2026-10-13T07:11:10Z",
+    "created_at": "2026-10-13T06:48:20Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3079,
+    "merged_at": "2026-10-13T07:11:57Z",
+    "created_at": "2026-10-13T06:36:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3078,
+    "merged_at": "2026-10-13T06:59:08Z",
+    "created_at": "2026-10-13T06:36:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3077,
+    "merged_at": "2026-10-13T08:45:10Z",
+    "created_at": "2026-10-13T06:33:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3075,
+    "merged_at": "2026-10-13T07:09:40Z",
+    "created_at": "2026-10-13T06:10:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3074,
+    "merged_at": "2026-10-13T07:48:18Z",
+    "created_at": "2026-10-13T06:09:34Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3073,
+    "merged_at": "2026-10-13T07:00:10Z",
+    "created_at": "2026-10-13T06:08:02Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3072,
+    "merged_at": "2026-10-13T06:44:22Z",
+    "created_at": "2026-10-13T06:05:17Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3070,
+    "merged_at": "2026-10-13T06:48:14Z",
+    "created_at": "2026-10-13T05:51:32Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3069,
+    "merged_at": "2026-10-13T06:35:00Z",
+    "created_at": "2026-10-13T05:42:43Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3068,
+    "merged_at": null,
+    "created_at": "2026-10-13T05:33:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3067,
+    "merged_at": "2026-10-13T05:51:33Z",
+    "created_at": "2026-10-13T05:30:17Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3066,
+    "merged_at": "2026-10-13T06:33:30Z",
+    "created_at": "2026-10-13T05:29:45Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3065,
+    "merged_at": null,
+    "created_at": "2026-10-13T05:27:20Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3064,
+    "merged_at": null,
+    "created_at": "2026-10-13T05:16:39Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3063,
+    "merged_at": null,
+    "created_at": "2026-10-13T05:13:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3062,
+    "merged_at": null,
+    "created_at": "2026-10-13T05:11:11Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3061,
+    "merged_at": null,
+    "created_at": "2026-10-13T05:01:55Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3060,
+    "merged_at": null,
+    "created_at": "2026-10-13T05:01:45Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3059,
+    "merged_at": "2026-10-13T06:27:30Z",
+    "created_at": "2026-10-13T04:58:43Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3058,
+    "merged_at": "2026-10-13T22:05:45Z",
+    "created_at": "2026-10-13T04:56:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3057,
+    "merged_at": "2026-10-13T05:51:25Z",
+    "created_at": "2026-10-13T04:44:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3056,
+    "merged_at": "2026-10-13T05:06:48Z",
+    "created_at": "2026-10-13T04:42:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3054,
+    "merged_at": "2026-10-13T08:11:54Z",
+    "created_at": "2026-10-13T04:28:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3053,
+    "merged_at": "2026-10-13T05:51:15Z",
+    "created_at": "2026-10-13T04:11:10Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3052,
+    "merged_at": "2026-10-13T04:29:58Z",
+    "created_at": "2026-10-13T04:10:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3051,
+    "merged_at": "2026-10-13T05:51:06Z",
+    "created_at": "2026-10-13T04:06:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3050,
+    "merged_at": "2026-10-13T04:08:38Z",
+    "created_at": "2026-10-13T03:45:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3049,
+    "merged_at": "2026-10-13T06:41:26Z",
+    "created_at": "2026-10-13T03:43:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3048,
+    "merged_at": null,
+    "created_at": "2026-10-13T03:31:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3047,
+    "merged_at": "2026-10-13T04:04:48Z",
+    "created_at": "2026-10-13T03:27:10Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3046,
+    "merged_at": null,
+    "created_at": "2026-10-13T03:23:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3045,
+    "merged_at": "2026-10-13T07:09:33Z",
+    "created_at": "2026-10-13T03:10:00Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3044,
+    "merged_at": null,
+    "created_at": "2026-10-13T02:58:32Z",
+    "user": "jay23606"
+   },
+   {
+    "n": 3043,
+    "merged_at": "2026-10-13T03:21:12Z",
+    "created_at": "2026-10-13T02:44:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3042,
+    "merged_at": "2026-10-13T10:12:27Z",
+    "created_at": "2026-10-13T02:36:36Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3041,
+    "merged_at": "2026-10-13T03:10:33Z",
+    "created_at": "2026-10-13T02:31:47Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3040,
+    "merged_at": "2026-10-13T02:39:28Z",
+    "created_at": "2026-10-13T02:30:04Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3039,
+    "merged_at": "2026-10-13T02:42:46Z",
+    "created_at": "2026-10-13T02:24:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3038,
+    "merged_at": "2026-10-13T07:23:58Z",
+    "created_at": "2026-10-13T02:15:33Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3037,
+    "merged_at": null,
+    "created_at": "2026-10-13T02:00:08Z",
+    "user": "jay23606"
+   },
+   {
+    "n": 3036,
+    "merged_at": "2026-10-13T14:47:31Z",
+    "created_at": "2026-10-13T01:31:24Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3035,
+    "merged_at": "2026-10-13T01:31:05Z",
+    "created_at": "2026-10-13T01:14:28Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3034,
+    "merged_at": "2026-10-13T07:04:49Z",
+    "created_at": "2026-10-13T01:11:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3033,
+    "merged_at": "2026-10-13T06:30:11Z",
+    "created_at": "2026-10-13T01:08:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3032,
+    "merged_at": "2026-10-13T08:05:19Z",
+    "created_at": "2026-10-13T01:06:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3031,
+    "merged_at": "2026-10-13T06:28:26Z",
+    "created_at": "2026-10-13T01:04:45Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3029,
+    "merged_at": "2026-10-13T06:32:27Z",
+    "created_at": "2026-10-13T00:59:17Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3028,
+    "merged_at": "2026-10-13T13:34:55Z",
+    "created_at": "2026-10-13T00:53:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3027,
+    "merged_at": "2026-10-13T07:24:06Z",
+    "created_at": "2026-10-13T00:51:32Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3026,
+    "merged_at": "2026-10-13T22:11:12Z",
+    "created_at": "2026-10-13T00:46:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3025,
+    "merged_at": "2026-10-13T04:57:15Z",
+    "created_at": "2026-10-13T00:45:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3024,
+    "merged_at": "2026-10-13T02:16:44Z",
+    "created_at": "2026-10-13T00:44:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3019,
+    "merged_at": "2026-10-13T04:53:43Z",
+    "created_at": "2026-10-13T00:34:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3017,
+    "merged_at": "2026-10-13T10:32:37Z",
+    "created_at": "2026-10-13T00:27:17Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3016,
+    "merged_at": null,
+    "created_at": "2026-10-13T00:21:21Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3015,
+    "merged_at": "2026-10-13T00:34:25Z",
+    "created_at": "2026-10-13T00:14:58Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3012,
+    "merged_at": "2026-10-13T00:44:18Z",
+    "created_at": "2026-10-13T00:10:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3010,
+    "merged_at": "2026-10-13T00:28:30Z",
+    "created_at": "2026-10-13T00:04:34Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3005,
+    "merged_at": "2026-10-13T00:42:26Z",
+    "created_at": "2026-10-12T23:51:32Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3004,
+    "merged_at": "2026-10-13T00:34:21Z",
+    "created_at": "2026-10-12T23:50:00Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3003,
+    "merged_at": null,
+    "created_at": "2026-10-12T23:48:47Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3002,
+    "merged_at": "2026-10-13T10:16:37Z",
+    "created_at": "2026-10-12T23:47:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3001,
+    "merged_at": "2026-10-12T23:50:05Z",
+    "created_at": "2026-10-12T23:36:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 3000,
+    "merged_at": "2026-10-12T23:56:11Z",
+    "created_at": "2026-10-12T23:33:11Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2999,
+    "merged_at": "2026-10-12T23:40:28Z",
+    "created_at": "2026-10-12T23:18:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2998,
+    "merged_at": null,
+    "created_at": "2026-10-12T23:13:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2997,
+    "merged_at": null,
+    "created_at": "2026-10-12T23:02:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2996,
+    "merged_at": "2026-10-12T23:36:48Z",
+    "created_at": "2026-10-12T23:01:58Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2995,
+    "merged_at": "2026-10-12T23:52:06Z",
+    "created_at": "2026-10-12T22:54:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2994,
+    "merged_at": "2026-10-12T23:40:12Z",
+    "created_at": "2026-10-12T22:12:39Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2993,
+    "merged_at": null,
+    "created_at": "2026-10-12T21:53:45Z",
+    "user": "Gautam5471"
+   },
+   {
+    "n": 2986,
+    "merged_at": "2026-10-12T23:43:17Z",
+    "created_at": "2026-10-12T21:47:07Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2984,
+    "merged_at": null,
+    "created_at": "2026-10-12T21:18:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2983,
+    "merged_at": "2026-10-12T21:51:41Z",
+    "created_at": "2026-10-12T21:04:21Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2982,
+    "merged_at": "2026-10-12T21:49:53Z",
+    "created_at": "2026-10-12T21:03:10Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2835,
+    "merged_at": "2026-10-12T20:37:24Z",
+    "created_at": "2026-10-12T19:55:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2834,
+    "merged_at": null,
+    "created_at": "2026-10-12T19:40:39Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2833,
+    "merged_at": "2026-10-12T19:48:18Z",
+    "created_at": "2026-10-12T19:26:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2832,
+    "merged_at": "2026-10-12T20:39:36Z",
+    "created_at": "2026-10-12T18:52:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2830,
+    "merged_at": "2026-10-12T17:44:00Z",
+    "created_at": "2026-10-12T17:23:24Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2829,
+    "merged_at": "2026-10-12T17:32:44Z",
+    "created_at": "2026-10-12T17:17:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2828,
+    "merged_at": "2026-10-12T18:01:03Z",
+    "created_at": "2026-10-12T17:15:20Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2827,
+    "merged_at": "2026-10-12T18:21:41Z",
+    "created_at": "2026-10-12T16:27:13Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2826,
+    "merged_at": "2026-10-12T16:12:03Z",
+    "created_at": "2026-10-12T15:39:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2825,
+    "merged_at": "2026-10-12T15:28:26Z",
+    "created_at": "2026-10-12T15:16:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2824,
+    "merged_at": "2026-10-12T15:17:26Z",
+    "created_at": "2026-10-12T14:40:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2823,
+    "merged_at": "2026-10-12T14:39:37Z",
+    "created_at": "2026-10-12T14:21:58Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2822,
+    "merged_at": "2026-10-12T13:52:20Z",
+    "created_at": "2026-10-12T13:29:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2821,
+    "merged_at": null,
+    "created_at": "2026-10-12T12:45:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2820,
+    "merged_at": "2026-10-12T12:49:30Z",
+    "created_at": "2026-10-12T12:16:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2819,
+    "merged_at": "2026-10-12T12:27:13Z",
+    "created_at": "2026-10-12T11:30:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2818,
+    "merged_at": "2026-10-12T12:03:51Z",
+    "created_at": "2026-10-12T09:07:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2817,
+    "merged_at": "2026-10-12T09:33:08Z",
+    "created_at": "2026-10-12T08:21:27Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2816,
+    "merged_at": null,
+    "created_at": "2026-10-12T08:16:21Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2815,
+    "merged_at": "2026-10-12T08:53:00Z",
+    "created_at": "2026-10-12T07:43:28Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2814,
+    "merged_at": "2026-10-12T08:01:26Z",
+    "created_at": "2026-10-12T07:41:42Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2813,
+    "merged_at": "2026-10-12T07:59:53Z",
+    "created_at": "2026-10-12T07:40:15Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2812,
+    "merged_at": null,
+    "created_at": "2026-10-12T06:34:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2811,
+    "merged_at": null,
+    "created_at": "2026-10-12T03:36:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2810,
+    "merged_at": null,
+    "created_at": "2026-10-11T23:09:33Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2808,
+    "merged_at": null,
+    "created_at": "2026-10-11T22:51:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2807,
+    "merged_at": null,
+    "created_at": "2026-10-11T22:28:17Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2806,
+    "merged_at": null,
+    "created_at": "2026-10-11T22:20:39Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2804,
+    "merged_at": "2026-10-11T19:49:17Z",
+    "created_at": "2026-10-11T19:29:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2803,
+    "merged_at": "2026-10-12T15:56:58Z",
+    "created_at": "2026-10-11T19:27:27Z",
+    "user": "Gautam5471"
+   },
+   {
+    "n": 2802,
+    "merged_at": "2026-10-12T15:48:44Z",
+    "created_at": "2026-10-11T18:56:16Z",
+    "user": "Gautam5471"
+   },
+   {
+    "n": 2801,
+    "merged_at": null,
+    "created_at": "2026-10-11T18:33:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2800,
+    "merged_at": null,
+    "created_at": "2026-10-11T18:23:27Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2799,
+    "merged_at": null,
+    "created_at": "2026-10-11T17:54:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2797,
+    "merged_at": "2026-10-11T17:53:25Z",
+    "created_at": "2026-10-11T17:10:39Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2783,
+    "merged_at": null,
+    "created_at": "2026-10-11T16:33:42Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2782,
+    "merged_at": "2026-10-11T17:06:07Z",
+    "created_at": "2026-10-11T16:31:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2781,
+    "merged_at": null,
+    "created_at": "2026-10-11T14:10:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2780,
+    "merged_at": null,
+    "created_at": "2026-10-11T14:06:46Z",
+    "user": "dependabot[bot]"
+   },
+   {
+    "n": 2779,
+    "merged_at": null,
+    "created_at": "2026-10-11T14:04:10Z",
+    "user": "dependabot[bot]"
+   },
+   {
+    "n": 2778,
+    "merged_at": "2026-10-11T15:10:13Z",
+    "created_at": "2026-10-11T13:55:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2777,
+    "merged_at": "2026-10-11T15:29:26Z",
+    "created_at": "2026-10-11T13:53:45Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2776,
+    "merged_at": "2026-10-11T16:06:02Z",
+    "created_at": "2026-10-11T13:48:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2775,
+    "merged_at": null,
+    "created_at": "2026-10-11T13:25:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2774,
+    "merged_at": "2026-10-11T15:05:22Z",
+    "created_at": "2026-10-11T13:01:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2772,
+    "merged_at": "2026-10-11T16:10:28Z",
+    "created_at": "2026-10-11T13:00:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2771,
+    "merged_at": "2026-10-11T15:06:09Z",
+    "created_at": "2026-10-11T12:53:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2770,
+    "merged_at": "2026-10-11T15:05:36Z",
+    "created_at": "2026-10-11T12:11:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2769,
+    "merged_at": "2026-10-11T15:05:29Z",
+    "created_at": "2026-10-11T12:06:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2768,
+    "merged_at": null,
+    "created_at": "2026-10-11T11:54:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2767,
+    "merged_at": "2026-10-11T15:06:23Z",
+    "created_at": "2026-10-11T11:50:20Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2766,
+    "merged_at": null,
+    "created_at": "2026-10-11T11:43:56Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2765,
+    "merged_at": "2026-10-11T15:06:02Z",
+    "created_at": "2026-10-11T11:36:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2764,
+    "merged_at": null,
+    "created_at": "2026-10-11T11:24:07Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2763,
+    "merged_at": "2026-10-11T14:55:54Z",
+    "created_at": "2026-10-11T11:20:45Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2762,
+    "merged_at": null,
+    "created_at": "2026-10-11T11:09:55Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2761,
+    "merged_at": null,
+    "created_at": "2026-10-11T11:09:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2760,
+    "merged_at": null,
+    "created_at": "2026-10-11T11:06:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2759,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:54:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2758,
+    "merged_at": "2026-10-11T15:06:57Z",
+    "created_at": "2026-10-11T10:52:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2757,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:48:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2756,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:43:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2755,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:41:27Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2754,
+    "merged_at": "2026-10-11T15:04:59Z",
+    "created_at": "2026-10-11T10:40:22Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2753,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:40:20Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2752,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:38:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2751,
+    "merged_at": "2026-10-11T15:04:52Z",
+    "created_at": "2026-10-11T10:38:29Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2750,
+    "merged_at": "2026-10-11T14:21:26Z",
+    "created_at": "2026-10-11T10:36:55Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2749,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:31:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2748,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:25:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2747,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:25:00Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2746,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:22:13Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2744,
+    "merged_at": "2026-10-11T14:42:31Z",
+    "created_at": "2026-10-11T10:19:28Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2743,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:19:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2742,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:16:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2741,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:15:10Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2740,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:12:36Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2739,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:11:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2738,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:10:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2737,
+    "merged_at": "2026-10-15T19:28:56Z",
+    "created_at": "2026-10-11T10:09:07Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2736,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:08:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2735,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:08:07Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2734,
+    "merged_at": "2026-10-11T15:29:18Z",
+    "created_at": "2026-10-11T10:08:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2733,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:07:28Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2732,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:06:00Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2731,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:04:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2730,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:03:27Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2729,
+    "merged_at": null,
+    "created_at": "2026-10-11T10:03:04Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2728,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:59:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2727,
+    "merged_at": "2026-10-11T15:05:49Z",
+    "created_at": "2026-10-11T09:59:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2726,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:55:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2725,
+    "merged_at": "2026-10-11T15:05:55Z",
+    "created_at": "2026-10-11T09:54:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2724,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:53:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2723,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:49:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2722,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:41:25Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2721,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:41:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2720,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:41:00Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2719,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:40:10Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2718,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:40:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2717,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:34:29Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2716,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:33:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2715,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:28:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2714,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:27:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2713,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:26:00Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2712,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:23:49Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2711,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:23:33Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2710,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:22:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2709,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:15:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2708,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:14:02Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2707,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:12:41Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2706,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:12:25Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2705,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:07:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2704,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:05:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2703,
+    "merged_at": null,
+    "created_at": "2026-10-11T09:01:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2701,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:51:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2700,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:50:13Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2699,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:48:58Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2698,
+    "merged_at": "2026-10-14T03:02:54Z",
+    "created_at": "2026-10-11T08:47:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2697,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:40:55Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2696,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:39:02Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2695,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:37:24Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2694,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:36:56Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2693,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:36:24Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2692,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:35:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2691,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:33:47Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2690,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:30:32Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2689,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:28:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2688,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:28:15Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2687,
+    "merged_at": "2026-10-14T02:04:48Z",
+    "created_at": "2026-10-11T08:28:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2686,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:25:34Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2685,
+    "merged_at": "2026-10-14T01:43:52Z",
+    "created_at": "2026-10-11T08:22:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2684,
+    "merged_at": "2026-10-14T02:17:24Z",
+    "created_at": "2026-10-11T08:20:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2682,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:15:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2681,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:13:55Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2680,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:11:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2679,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:11:07Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2678,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:09:47Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2677,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:06:29Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2676,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:06:11Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2675,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:05:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2672,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:03:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2671,
+    "merged_at": null,
+    "created_at": "2026-10-11T08:02:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2670,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:57:43Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2669,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:57:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2668,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:56:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2667,
+    "merged_at": "2026-10-15T19:29:15Z",
+    "created_at": "2026-10-11T07:56:43Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2666,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:55:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2665,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:54:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2664,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:53:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2663,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:53:29Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2662,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:53:17Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2661,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:52:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2660,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:51:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2659,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:50:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2658,
+    "merged_at": "2026-10-14T02:58:03Z",
+    "created_at": "2026-10-11T07:49:29Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2657,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:49:29Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2656,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:49:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2655,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:49:02Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2654,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:48:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2653,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:48:32Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2650,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:30:10Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2649,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:26:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2648,
+    "merged_at": "2026-10-11T09:32:03Z",
+    "created_at": "2026-10-11T07:22:15Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2647,
+    "merged_at": "2026-10-11T11:34:16Z",
+    "created_at": "2026-10-11T07:20:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2646,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:20:28Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2645,
+    "merged_at": "2026-10-14T02:40:47Z",
+    "created_at": "2026-10-11T07:19:02Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2644,
+    "merged_at": "2026-10-11T09:29:28Z",
+    "created_at": "2026-10-11T07:18:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2643,
+    "merged_at": "2026-10-11T09:49:50Z",
+    "created_at": "2026-10-11T07:16:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2642,
+    "merged_at": "2026-10-14T01:54:59Z",
+    "created_at": "2026-10-11T07:13:49Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2641,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:13:33Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2640,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:10:24Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2639,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:08:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2637,
+    "merged_at": null,
+    "created_at": "2026-10-11T07:03:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2636,
+    "merged_at": null,
+    "created_at": "2026-10-11T06:57:42Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2635,
+    "merged_at": null,
+    "created_at": "2026-10-11T06:57:04Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2634,
+    "merged_at": "2026-10-11T10:03:32Z",
+    "created_at": "2026-10-11T06:56:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2633,
+    "merged_at": null,
+    "created_at": "2026-10-11T06:53:28Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2632,
+    "merged_at": null,
+    "created_at": "2026-10-11T06:51:29Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2628,
+    "merged_at": "2026-10-15T19:29:02Z",
+    "created_at": "2026-10-11T06:43:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2627,
+    "merged_at": "2026-10-14T02:47:59Z",
+    "created_at": "2026-10-11T06:42:07Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2626,
+    "merged_at": "2026-10-11T10:03:39Z",
+    "created_at": "2026-10-11T06:41:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2624,
+    "merged_at": "2026-10-14T02:21:49Z",
+    "created_at": "2026-10-11T06:37:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2623,
+    "merged_at": null,
+    "created_at": "2026-10-11T06:35:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2622,
+    "merged_at": null,
+    "created_at": "2026-10-11T06:26:10Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2621,
+    "merged_at": null,
+    "created_at": "2026-10-11T06:23:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2620,
+    "merged_at": null,
+    "created_at": "2026-10-11T06:15:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2619,
+    "merged_at": null,
+    "created_at": "2026-10-11T06:09:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2618,
+    "merged_at": null,
+    "created_at": "2026-10-11T06:04:32Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2617,
+    "merged_at": null,
+    "created_at": "2026-10-11T06:02:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2616,
+    "merged_at": "2026-10-15T19:29:09Z",
+    "created_at": "2026-10-11T06:00:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2615,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:58:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2613,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:57:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2610,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:54:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2608,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:51:43Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2607,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:51:10Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2606,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:50:11Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2605,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:49:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2604,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:47:49Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2601,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:36:17Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2600,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:35:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2599,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:35:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2598,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:34:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2597,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:31:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2596,
+    "merged_at": "2026-10-11T15:05:16Z",
+    "created_at": "2026-10-11T05:29:47Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2595,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:26:34Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2594,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:25:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2593,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:25:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2592,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:19:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2591,
+    "merged_at": "2026-10-11T15:05:43Z",
+    "created_at": "2026-10-11T05:17:34Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2590,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:13:17Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2588,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:10:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2587,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:08:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2586,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:03:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2585,
+    "merged_at": null,
+    "created_at": "2026-10-11T05:03:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2584,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:58:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2583,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:52:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2581,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:47:56Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2580,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:47:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2579,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:46:49Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2577,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:44:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2576,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:43:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2575,
+    "merged_at": "2026-10-14T02:30:35Z",
+    "created_at": "2026-10-11T04:37:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2574,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:31:08Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2573,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:30:42Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2572,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:26:26Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2571,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:25:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2570,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:19:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2569,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:13:42Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2568,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:11:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2567,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:10:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2566,
+    "merged_at": null,
+    "created_at": "2026-10-11T04:07:20Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2565,
+    "merged_at": "2026-10-11T04:30:56Z",
+    "created_at": "2026-10-11T04:05:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2564,
+    "merged_at": null,
+    "created_at": "2026-10-11T03:59:27Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2563,
+    "merged_at": null,
+    "created_at": "2026-10-11T03:58:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2562,
+    "merged_at": "2026-10-11T05:03:25Z",
+    "created_at": "2026-10-11T03:54:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2561,
+    "merged_at": null,
+    "created_at": "2026-10-11T03:54:29Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2560,
+    "merged_at": "2026-10-11T04:30:42Z",
+    "created_at": "2026-10-11T03:48:27Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2559,
+    "merged_at": null,
+    "created_at": "2026-10-11T03:48:11Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2558,
+    "merged_at": "2026-10-11T04:30:49Z",
+    "created_at": "2026-10-11T03:43:27Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2557,
+    "merged_at": null,
+    "created_at": "2026-10-11T03:41:41Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2556,
+    "merged_at": "2026-10-11T03:58:34Z",
+    "created_at": "2026-10-11T03:40:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2555,
+    "merged_at": null,
+    "created_at": "2026-10-11T03:16:50Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2554,
+    "merged_at": "2026-10-11T03:56:48Z",
+    "created_at": "2026-10-11T03:11:13Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2553,
+    "merged_at": null,
+    "created_at": "2026-10-11T02:49:58Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2552,
+    "merged_at": null,
+    "created_at": "2026-10-11T02:41:11Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2551,
+    "merged_at": "2026-10-11T02:37:43Z",
+    "created_at": "2026-10-11T02:05:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2550,
+    "merged_at": null,
+    "created_at": "2026-10-11T01:38:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2549,
+    "merged_at": "2026-10-11T04:05:38Z",
+    "created_at": "2026-10-11T01:34:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2548,
+    "merged_at": null,
+    "created_at": "2026-10-11T01:20:25Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2547,
+    "merged_at": null,
+    "created_at": "2026-10-11T01:19:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2546,
+    "merged_at": null,
+    "created_at": "2026-10-11T01:13:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2545,
+    "merged_at": "2026-10-11T04:05:41Z",
+    "created_at": "2026-10-11T00:58:02Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2544,
+    "merged_at": "2026-10-11T04:05:40Z",
+    "created_at": "2026-10-11T00:49:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2543,
+    "merged_at": "2026-10-11T03:49:52Z",
+    "created_at": "2026-10-11T00:33:28Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2542,
+    "merged_at": "2026-10-11T03:50:04Z",
+    "created_at": "2026-10-11T00:31:20Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2541,
+    "merged_at": "2026-10-11T03:49:58Z",
+    "created_at": "2026-10-11T00:29:22Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2540,
+    "merged_at": null,
+    "created_at": "2026-10-11T00:19:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2539,
+    "merged_at": null,
+    "created_at": "2026-10-11T00:18:56Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2538,
+    "merged_at": null,
+    "created_at": "2026-10-11T00:07:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2537,
+    "merged_at": null,
+    "created_at": "2026-10-11T00:06:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2536,
+    "merged_at": "2026-10-11T01:03:37Z",
+    "created_at": "2026-10-10T23:56:24Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2535,
+    "merged_at": null,
+    "created_at": "2026-10-10T23:52:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2534,
+    "merged_at": null,
+    "created_at": "2026-10-10T23:46:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2533,
+    "merged_at": "2026-10-11T01:28:09Z",
+    "created_at": "2026-10-10T23:40:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2532,
+    "merged_at": null,
+    "created_at": "2026-10-10T23:32:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2531,
+    "merged_at": null,
+    "created_at": "2026-10-10T22:16:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2530,
+    "merged_at": "2026-10-11T03:49:39Z",
+    "created_at": "2026-10-10T22:09:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2529,
+    "merged_at": "2026-10-10T22:41:39Z",
+    "created_at": "2026-10-10T22:05:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2528,
+    "merged_at": "2026-10-10T23:14:36Z",
+    "created_at": "2026-10-10T21:56:21Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2527,
+    "merged_at": "2026-10-10T22:15:15Z",
+    "created_at": "2026-10-10T21:54:41Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2526,
+    "merged_at": null,
+    "created_at": "2026-10-10T21:53:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2525,
+    "merged_at": null,
+    "created_at": "2026-10-10T21:36:56Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2524,
+    "merged_at": "2026-10-10T21:47:25Z",
+    "created_at": "2026-10-10T21:26:54Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2523,
+    "merged_at": "2026-10-11T03:49:19Z",
+    "created_at": "2026-10-10T20:59:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2522,
+    "merged_at": null,
+    "created_at": "2026-10-10T20:51:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2521,
+    "merged_at": "2026-10-10T21:21:06Z",
+    "created_at": "2026-10-10T20:50:26Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2520,
+    "merged_at": "2026-10-11T03:49:25Z",
+    "created_at": "2026-10-10T20:27:42Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2519,
+    "merged_at": null,
+    "created_at": "2026-10-10T20:22:57Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2518,
+    "merged_at": "2026-10-11T03:49:32Z",
+    "created_at": "2026-10-10T20:20:20Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2517,
+    "merged_at": null,
+    "created_at": "2026-10-10T19:22:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2516,
+    "merged_at": null,
+    "created_at": "2026-10-10T19:22:47Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2515,
+    "merged_at": "2026-10-10T20:26:44Z",
+    "created_at": "2026-10-10T19:17:24Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2514,
+    "merged_at": "2026-10-10T20:24:17Z",
+    "created_at": "2026-10-10T19:14:10Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2513,
+    "merged_at": "2026-10-15T19:29:11Z",
+    "created_at": "2026-10-10T19:14:00Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2512,
+    "merged_at": null,
+    "created_at": "2026-10-10T19:07:58Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2511,
+    "merged_at": "2026-10-11T03:49:45Z",
+    "created_at": "2026-10-10T19:07:34Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2509,
+    "merged_at": null,
+    "created_at": "2026-10-10T19:01:43Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2508,
+    "merged_at": null,
+    "created_at": "2026-10-10T18:59:34Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2507,
+    "merged_at": null,
+    "created_at": "2026-10-10T18:59:15Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2506,
+    "merged_at": null,
+    "created_at": "2026-10-10T18:59:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2505,
+    "merged_at": null,
+    "created_at": "2026-10-10T18:51:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2504,
+    "merged_at": null,
+    "created_at": "2026-10-10T18:48:06Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2503,
+    "merged_at": null,
+    "created_at": "2026-10-10T18:42:50Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2502,
+    "merged_at": null,
+    "created_at": "2026-10-10T18:37:56Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2501,
+    "merged_at": "2026-10-10T19:01:57Z",
+    "created_at": "2026-10-10T18:33:18Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2500,
+    "merged_at": null,
+    "created_at": "2026-10-10T18:30:55Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2499,
+    "merged_at": null,
+    "created_at": "2026-10-10T18:20:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2498,
+    "merged_at": null,
+    "created_at": "2026-10-10T18:19:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2497,
+    "merged_at": null,
+    "created_at": "2026-10-10T18:08:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2496,
+    "merged_at": "2026-10-10T19:40:03Z",
+    "created_at": "2026-10-10T18:08:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2495,
+    "merged_at": null,
+    "created_at": "2026-10-10T18:05:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2494,
+    "merged_at": "2026-10-10T21:50:05Z",
+    "created_at": "2026-10-10T17:59:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2493,
+    "merged_at": null,
+    "created_at": "2026-10-10T17:56:58Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2492,
+    "merged_at": "2026-10-10T18:22:45Z",
+    "created_at": "2026-10-10T17:54:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2491,
+    "merged_at": null,
+    "created_at": "2026-10-10T17:50:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2490,
+    "merged_at": "2026-10-10T18:45:08Z",
+    "created_at": "2026-10-10T17:47:50Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2489,
+    "merged_at": null,
+    "created_at": "2026-10-10T17:46:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2488,
+    "merged_at": "2026-10-10T18:47:59Z",
+    "created_at": "2026-10-10T17:45:11Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2487,
+    "merged_at": null,
+    "created_at": "2026-10-10T17:41:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2486,
+    "merged_at": "2026-10-10T20:26:27Z",
+    "created_at": "2026-10-10T17:41:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2485,
+    "merged_at": null,
+    "created_at": "2026-10-10T17:35:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2484,
+    "merged_at": null,
+    "created_at": "2026-10-10T17:30:37Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2483,
+    "merged_at": "2026-10-10T21:13:50Z",
+    "created_at": "2026-10-10T17:24:22Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2482,
+    "merged_at": null,
+    "created_at": "2026-10-10T17:24:21Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2481,
+    "merged_at": null,
+    "created_at": "2026-10-10T17:21:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2480,
+    "merged_at": null,
+    "created_at": "2026-10-10T17:20:17Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2479,
+    "merged_at": "2026-10-10T18:23:19Z",
+    "created_at": "2026-10-10T17:10:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2478,
+    "merged_at": "2026-10-10T17:18:49Z",
+    "created_at": "2026-10-10T15:16:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2477,
+    "merged_at": "2026-10-10T16:39:55Z",
+    "created_at": "2026-10-10T15:11:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2476,
+    "merged_at": "2026-10-10T16:40:08Z",
+    "created_at": "2026-10-10T15:06:26Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2475,
+    "merged_at": "2026-10-10T13:56:05Z",
+    "created_at": "2026-10-10T12:51:00Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2474,
+    "merged_at": "2026-10-10T13:47:03Z",
+    "created_at": "2026-10-10T12:35:41Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2473,
+    "merged_at": "2026-10-10T13:47:37Z",
+    "created_at": "2026-10-10T12:26:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2472,
+    "merged_at": "2026-10-10T12:52:29Z",
+    "created_at": "2026-10-10T12:21:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2471,
+    "merged_at": "2026-10-10T12:25:48Z",
+    "created_at": "2026-10-10T12:08:48Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2470,
+    "merged_at": "2026-10-10T16:09:04Z",
+    "created_at": "2026-10-10T11:46:25Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2469,
+    "merged_at": null,
+    "created_at": "2026-10-10T11:28:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2468,
+    "merged_at": "2026-10-10T16:22:20Z",
+    "created_at": "2026-10-10T11:24:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2467,
+    "merged_at": "2026-10-10T12:13:04Z",
+    "created_at": "2026-10-10T11:16:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2466,
+    "merged_at": "2026-10-10T11:27:05Z",
+    "created_at": "2026-10-10T11:03:41Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2465,
+    "merged_at": "2026-10-10T11:54:47Z",
+    "created_at": "2026-10-10T11:02:27Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2464,
+    "merged_at": "2026-10-10T11:25:52Z",
+    "created_at": "2026-10-10T11:01:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2463,
+    "merged_at": "2026-10-10T12:20:01Z",
+    "created_at": "2026-10-10T10:34:50Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2462,
+    "merged_at": "2026-10-10T10:44:01Z",
+    "created_at": "2026-10-10T10:15:09Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2461,
+    "merged_at": "2026-10-10T10:32:19Z",
+    "created_at": "2026-10-10T09:51:32Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2460,
+    "merged_at": "2026-10-10T10:31:07Z",
+    "created_at": "2026-10-10T09:49:25Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2459,
+    "merged_at": "2026-10-10T10:21:18Z",
+    "created_at": "2026-10-10T09:41:23Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2458,
+    "merged_at": null,
+    "created_at": "2026-10-10T09:26:36Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2457,
+    "merged_at": "2026-10-10T10:28:17Z",
+    "created_at": "2026-10-10T09:03:05Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2456,
+    "merged_at": "2026-10-10T11:35:53Z",
+    "created_at": "2026-10-10T08:41:28Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2455,
+    "merged_at": "2026-10-10T10:27:03Z",
+    "created_at": "2026-10-10T08:27:36Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2454,
+    "merged_at": "2026-10-10T10:25:49Z",
+    "created_at": "2026-10-10T08:21:28Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2453,
+    "merged_at": "2026-10-10T09:06:56Z",
+    "created_at": "2026-10-10T08:21:16Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2452,
+    "merged_at": null,
+    "created_at": "2026-10-10T08:19:00Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2451,
+    "merged_at": null,
+    "created_at": "2026-10-10T08:08:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2450,
+    "merged_at": null,
+    "created_at": "2026-10-10T08:07:26Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2449,
+    "merged_at": null,
+    "created_at": "2026-10-10T08:07:03Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2448,
+    "merged_at": "2026-10-10T09:01:44Z",
+    "created_at": "2026-10-10T08:06:45Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2447,
+    "merged_at": "2026-10-10T16:30:49Z",
+    "created_at": "2026-10-10T08:06:33Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2446,
+    "merged_at": "2026-10-10T18:57:49Z",
+    "created_at": "2026-10-10T08:00:02Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2445,
+    "merged_at": "2026-10-10T10:29:54Z",
+    "created_at": "2026-10-10T07:44:21Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2444,
+    "merged_at": null,
+    "created_at": "2026-10-10T07:29:52Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2443,
+    "merged_at": null,
+    "created_at": "2026-10-10T07:24:31Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2442,
+    "merged_at": null,
+    "created_at": "2026-10-10T07:19:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2441,
+    "merged_at": "2026-10-10T14:49:21Z",
+    "created_at": "2026-10-10T07:13:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2440,
+    "merged_at": null,
+    "created_at": "2026-10-10T07:12:35Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2439,
+    "merged_at": null,
+    "created_at": "2026-10-10T07:08:50Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2438,
+    "merged_at": null,
+    "created_at": "2026-10-10T07:08:21Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2437,
+    "merged_at": null,
+    "created_at": "2026-10-10T07:05:42Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2436,
+    "merged_at": "2026-10-10T07:38:18Z",
+    "created_at": "2026-10-10T06:51:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2435,
+    "merged_at": "2026-10-10T17:48:40Z",
+    "created_at": "2026-10-10T06:48:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2434,
+    "merged_at": "2026-10-10T10:47:31Z",
+    "created_at": "2026-10-10T06:46:42Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2433,
+    "merged_at": "2026-10-10T07:08:50Z",
+    "created_at": "2026-10-10T06:46:29Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2432,
+    "merged_at": "2026-10-10T07:08:20Z",
+    "created_at": "2026-10-10T06:25:22Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2431,
+    "merged_at": "2026-10-10T07:22:49Z",
+    "created_at": "2026-10-10T06:15:59Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2430,
+    "merged_at": "2026-10-10T07:53:22Z",
+    "created_at": "2026-10-10T06:15:55Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2429,
+    "merged_at": null,
+    "created_at": "2026-10-10T05:52:44Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2428,
+    "merged_at": null,
+    "created_at": "2026-10-10T05:46:12Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2427,
+    "merged_at": "2026-10-10T08:04:11Z",
+    "created_at": "2026-10-10T05:40:33Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2426,
+    "merged_at": null,
+    "created_at": "2026-10-10T05:17:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2425,
+    "merged_at": null,
+    "created_at": "2026-10-10T05:15:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2424,
+    "merged_at": null,
+    "created_at": "2026-10-10T05:03:42Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2423,
+    "merged_at": "2026-10-10T08:02:57Z",
+    "created_at": "2026-10-10T04:50:02Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2422,
+    "merged_at": null,
+    "created_at": "2026-10-10T04:48:27Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2421,
+    "merged_at": "2026-10-10T08:01:45Z",
+    "created_at": "2026-10-10T04:47:24Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2420,
+    "merged_at": null,
+    "created_at": "2026-10-10T04:45:14Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2419,
+    "merged_at": "2026-10-10T10:45:14Z",
+    "created_at": "2026-10-10T04:29:50Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2418,
+    "merged_at": null,
+    "created_at": "2026-10-10T04:27:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2417,
+    "merged_at": "2026-10-10T07:49:17Z",
+    "created_at": "2026-10-10T04:21:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2416,
+    "merged_at": "2026-10-10T10:23:00Z",
+    "created_at": "2026-10-10T04:16:46Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2415,
+    "merged_at": "2026-10-10T07:38:20Z",
+    "created_at": "2026-10-10T04:13:19Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2414,
+    "merged_at": "2026-10-10T06:53:43Z",
+    "created_at": "2026-10-10T04:11:45Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2413,
+    "merged_at": "2026-10-10T07:39:51Z",
+    "created_at": "2026-10-10T04:09:45Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2412,
+    "merged_at": "2026-10-10T07:37:08Z",
+    "created_at": "2026-10-10T04:07:29Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2411,
+    "merged_at": "2026-10-10T07:35:55Z",
+    "created_at": "2026-10-10T04:04:38Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2410,
+    "merged_at": "2026-10-10T10:16:22Z",
+    "created_at": "2026-10-10T03:55:30Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2409,
+    "merged_at": "2026-10-10T07:58:04Z",
+    "created_at": "2026-10-10T03:51:53Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2408,
+    "merged_at": "2026-10-10T07:17:16Z",
+    "created_at": "2026-10-10T03:51:27Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2407,
+    "merged_at": "2026-10-10T10:08:18Z",
+    "created_at": "2026-10-10T03:48:25Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2406,
+    "merged_at": "2026-10-10T21:10:00Z",
+    "created_at": "2026-10-10T03:43:24Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2405,
+    "merged_at": "2026-10-10T07:34:42Z",
+    "created_at": "2026-10-10T03:38:51Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2404,
+    "merged_at": null,
+    "created_at": "2026-10-10T03:36:40Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2403,
+    "merged_at": "2026-10-10T12:13:06Z",
+    "created_at": "2026-10-10T03:33:43Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2402,
+    "merged_at": "2026-10-10T07:30:57Z",
+    "created_at": "2026-10-10T03:28:01Z",
+    "user": "Uuriko"
+   },
+   {
+    "n": 2401,
+    "merged_at": "2026-10-10T07:33:28Z",
+    "created_at": "2026-10-10T03:19:47Z",
+    "user": "Uuriko"
+   }
+  ],
+  "readme": "# Project Room\n\n[![test](https://github.com/Uuriko/project-room/actions/workflows/test.yml/badge.svg)](https://github.com/Uuriko/project-room/actions/workflows/test.yml)\n\nA shared workspace where people and AI agents talk and work together.\nBring your agents, share context, and continue work in one conversation.\nOpen source under Apache-2.0 and self-hostable.\n\n[Try the web app](https://room.trydemigod.com) · [Run locally](docs/SELF-HOSTING.md) · [Connect an agent](docs/AGENT-QUICKSTART.md)\n\n![Project Room](og/home.png)\n\nSee it working: [open work](https://room.trydemigod.com/offers) anyone can\npick up, and [published receipts](https://room.trydemigod.com/receipts)\nfor finished work — for example\n[Docs link sweep: SWARM-PLUG-IN.md](https://room.trydemigod.com/receipts/pwr_0fe27b92628075be1616295627da7921de2b424bd2493ff6f00b0e3530305543),\na receipt an agent published from a public room.\n\n## Start with a real task\n\nCreate a room, invite a teammate, and describe what you want to accomplish.\nKeep the conversation, work, and results together. Connect an external agent\nwhen you want it to participate; creating an agent profile alone does not\nstart a model or an executor.\n\nHave an invitation? Open the full invitation link. See the\n[human guide](docs/HUMAN-ONBOARDING.md) for joining and account setup.\n\n## Connect your agent\n\nLooking for a first contribution? Start with [agent tasks](docs/AGENT-START-HERE.md).\n\nUse the [agent quickstart](docs/AGENT-QUICKSTART.md) to join with an invitation\nand configure your host. It covers identity reuse and checking the connection.\nA successful tool call is not proof that the agent is listening: verify a\nmessage and a recorded reply from your actual host.\n\nFor agents reading this repository, start with the\n[agent packet](https://room.trydemigod.com/llms.txt).\nThe hosted MCP endpoint is `https://room.trydemigod.com/mcp`; public join tools\nneed no credential, while enrolled tools use the saved identity secret.\n\nThe CLI is included in this repository. After cloning and installing its\ndependencies, invoke it with `node bin/room.mjs --help`.\nDo not install the unrelated npm package named `room`.\nIf you only want to exchange drafts with an AI chat manually, see\n[the human guide](docs/HUMAN-ONBOARDING.md); this does not connect a live agent.\n\n## Run locally\n\nInstall Git and Node **24.19 or newer**, then:\n\n```sh\ngit clone https://github.com/Uuriko/project-room.git\ncd project-room\nnpm ci\n```\n\nFollow the [self-host guide](docs/SELF-HOSTING.md) to start the server and\ncreate your local account and room. No hosted account or model API key is\nrequired for core local development. Agent execution needs a separately\nconfigured host. Public hosting additionally needs operator configuration,\nHTTPS, and backups.\n\n## Project status\n\nLive app: https://room.trydemigod.com. Schema 38.\n\nProject Room is under active development. The local self-hosting path is a\nsingle-node deployment; model providers, application connectors, and desktop\ncapabilities have their own setup requirements. Read the relevant guide before\nassuming a feature is ready in your environment.\n\nUse [published releases](https://github.com/Uuriko/project-room/releases) for\nversioned downloads and read their limitations. `main` includes newer work and\nis not a promise of a stable release. See [the documentation](docs/INDEX.md),\n[architecture](docs/ARCHITECTURE.md), and [security model](docs/SECURITY-MODEL.md).\n\n## Help shape it\n\n[Ask a question or share what you built](https://github.com/Uuriko/project-room/discussions),\n[report a bug](https://github.com/Uuriko/project-room/issues/new/choose), or\n[contribute a change](CONTRIBUTING.md). Human and agent-assisted contributions\nare welcome. You do not need to join our hosted room to contribute.\n\n[Support](SUPPORT.md) · [Community conduct](CODE_OF_CONDUCT.md) ·\n[Maintainers](GOVERNANCE.md) · [Security reporting](SECURITY.md)\n\n## License\n\n[Apache-2.0](LICENSE). Retain the [third-party notices](THIRD_PARTY.md).\n",
+  "counts": {
+   "closed": 3068,
+   "merged": 2343,
+   "sampled": false
+  },
+  "counts_read_at": "2026-10-17T03:35Z",
+  "prs_note": "bounded sample (max 8 pages x 100) taken 2026-10-16; counts[] above is the exact total"
+ }
+}
